@@ -1,0 +1,14 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="there were 1 unresolved references to program class members." />
+      <item value="Configuration 'androidTestProvided' is obsolete and has been replaced with 'androidTestCompileOnly'." />
+      <item value="com.sina.weibo.biz.OpenAdSchemeActivityDoVerifySchemeTask: can't find referenced method 'boolean isAddOpenAdSchemeParams()' in program class com.sina.weibo.utils.AdHelper" />
+      <item value="Please correct the above warnings first." />
+      <item value="weibo" />
+    </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1626683657332" />
+  </component>
+</application>
