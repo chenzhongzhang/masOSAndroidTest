@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="HEAP OVER THRESHOL" />
+      <item value="REANALYSIS" />
       <item value="Inside" />
       <item value="Wrapper" />
       <item value="Shark" />
@@ -51,8 +53,6 @@
       <item value="INSTALL FAILED CONFLICTING PROVIDER" />
       <item value="The application could not be installed: INSTALL_FAILED_CONFLICTING_PROVIDER" />
       <item value="[TAG] Failed to resolve variable '{junit.version}'" />
-      <item value="there were 1 unresolved references to program class members." />
-      <item value="Configuration 'androidTestProvided' is obsolete and has been replaced with 'androidTestCompileOnly'." />
     </histories>
   </component>
   <component name="Cache">
