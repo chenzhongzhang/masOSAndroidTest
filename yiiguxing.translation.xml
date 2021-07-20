@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Global" />
       <item value="OOM Uploader" />
       <item value="validator" />
       <item value="config" />
