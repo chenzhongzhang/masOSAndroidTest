@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="volatile" />
       <item value="STRIP" />
       <item value="FORK" />
       <item value="NORMA" />
