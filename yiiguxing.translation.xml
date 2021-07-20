@@ -3,13 +3,24 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="do check is grey scale user" />
+      <item value="use Full Trace" />
+      <item value="I Uploader" />
+      <item value="show Unreachable Objects" />
+      <item value="is Target User" />
+      <item value="getVersion" />
+      <item value="getVersionMaxUploadTimes" />
+      <item value="MaxUploadTimes" />
+      <item value="get Dump Root Dir" />
+      <item value="get Poll Interval" />
+      <item value="get Dump Type" />
+      <item value="get Over Threshold Times" />
+      <item value="get Memory Ratio" />
       <item value="volatile" />
       <item value="STRIP" />
       <item value="FORK" />
       <item value="NORMA" />
-      <item value="is Target User" />
       <item value="pre Check" />
-      <item value="use Full Trace" />
       <item value="INSTANCE" />
       <item value="Check Conditions" />
       <item value="Wrapper" />
