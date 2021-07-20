@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="validator" />
+      <item value="config" />
+      <item value="report" />
+      <item value="upload" />
+      <item value="valdiator" />
       <item value="crash" />
       <item value="verify Permissions" />
       <item value="Installation did not succeed. The application could not be installed: INSTALL_FAILED_CONFLICTING_PROVIDER" />
