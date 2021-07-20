@@ -3,6 +3,23 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="STRIP" />
+      <item value="FORK" />
+      <item value="NORMA" />
+      <item value="is Target User" />
+      <item value="pre Check" />
+      <item value="use Full Trace" />
+      <item value="INSTANCE" />
+      <item value="Check Conditions" />
+      <item value="Wrapper" />
+      <item value="Dump Listener Wrapper" />
+      <item value="Re Analysis Detector" />
+      <item value="CREATOR" />
+      <item value="write To Parcel" />
+      <item value="describe Contents" />
+      <item value="analyzing" />
+      <item value="dumping" />
+      <item value="idle" />
       <item value="MANUAL" />
       <item value="is Enable Auto Detect" />
       <item value="Global" />
