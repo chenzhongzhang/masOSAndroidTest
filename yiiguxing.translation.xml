@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Sp" />
       <item value="HEAP OVER THRESHOL" />
       <item value="REANALYSIS" />
       <item value="Inside" />
@@ -52,7 +53,6 @@
       <item value="Installation did not succeed. The application could not be installed: INSTALL_FAILED_CONFLICTING_PROVIDER" />
       <item value="INSTALL FAILED CONFLICTING PROVIDER" />
       <item value="The application could not be installed: INSTALL_FAILED_CONFLICTING_PROVIDER" />
-      <item value="[TAG] Failed to resolve variable '{junit.version}'" />
     </histories>
   </component>
   <component name="Cache">
