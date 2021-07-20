@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Inside" />
+      <item value="Wrapper" />
+      <item value="Shark" />
       <item value="convert To Simple Report" />
       <item value="application Leaks" />
       <item value="do check is grey scale user" />
@@ -25,7 +28,6 @@
       <item value="pre Check" />
       <item value="INSTANCE" />
       <item value="Check Conditions" />
-      <item value="Wrapper" />
       <item value="Dump Listener Wrapper" />
       <item value="Re Analysis Detector" />
       <item value="CREATOR" />
@@ -51,8 +53,6 @@
       <item value="[TAG] Failed to resolve variable '{junit.version}'" />
       <item value="there were 1 unresolved references to program class members." />
       <item value="Configuration 'androidTestProvided' is obsolete and has been replaced with 'androidTestCompileOnly'." />
-      <item value="com.sina.weibo.biz.OpenAdSchemeActivityDoVerifySchemeTask: can't find referenced method 'boolean isAddOpenAdSchemeParams()' in program class com.sina.weibo.utils.AdHelper" />
-      <item value="Please correct the above warnings first." />
     </histories>
   </component>
   <component name="Cache">
