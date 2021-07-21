@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Duration" />
       <item value="Android resource linking failed Usersqinzhan.gradlecachestransforms-1files-1.1appmarket-dev-SNAPSHOT.aar181e42f1f67357d0d2fb41c9b364bd09resdrawablemarket_game_comment_ratingbar.xml:4: AAPT: warn: generated id 'android:idbackground' for external package 'android'." />
       <item value="Sp" />
       <item value="HEAP OVER THRESHOL" />
@@ -52,7 +53,6 @@
       <item value="crash" />
       <item value="verify Permissions" />
       <item value="Installation did not succeed. The application could not be installed: INSTALL_FAILED_CONFLICTING_PROVIDER" />
-      <item value="INSTALL FAILED CONFLICTING PROVIDER" />
     </histories>
   </component>
   <component name="Cache">
