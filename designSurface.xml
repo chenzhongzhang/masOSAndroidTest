@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../.gradle/caches/transforms-1/files-1.1/appmarket-dev-SNAPSHOT.aar/181e42f1f67357d0d2fb41c9b364bd09/res/drawable/market_game_comment_ratingbar.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.24739583333333334" />
         <entry key="demo/src/main/res/layout/activity_leak_empty.xml" value="0.125" />
