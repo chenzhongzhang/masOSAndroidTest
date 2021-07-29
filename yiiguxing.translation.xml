@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="The project uses Gradle version which is incompatible with Studio running on Java 10 or newer. See" />
+      <item value="Could not determine java version from '11.0.8'." />
+      <item value="The project uses Gradle version which is incompatible with Studio running on Java 10 or newer." />
       <item value="1 actionable task: 1 executed Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings. See https:docs.gradle.org6.5userguidecommand_line_interface" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings." />
       <item value="Copyright (C) 2008 Google Inc. Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
@@ -50,9 +53,6 @@
       <item value="is Enable Auto Detect" />
       <item value="Global" />
       <item value="OOM Uploader" />
-      <item value="validator" />
-      <item value="config" />
-      <item value="report" />
     </histories>
   </component>
   <component name="Cache">
