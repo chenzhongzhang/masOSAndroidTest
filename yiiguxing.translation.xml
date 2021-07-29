@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="INSTALL FAILED TEST ONLY" />
       <item value="The project uses Gradle version which is incompatible with Studio running on Java 10 or newer. See" />
       <item value="Could not determine java version from '11.0.8'." />
       <item value="The project uses Gradle version which is incompatible with Studio running on Java 10 or newer." />
@@ -52,7 +53,6 @@
       <item value="MANUAL" />
       <item value="is Enable Auto Detect" />
       <item value="Global" />
-      <item value="OOM Uploader" />
     </histories>
   </component>
   <component name="Cache">
