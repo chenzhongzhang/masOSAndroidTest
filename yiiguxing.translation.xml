@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Before Android 4.1, method android.graphics.PorterDuffColorFilter androidx.vectordrawable.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuffMode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable" />
+      <item value="ClassLoader referenced unknown path: dataappcom.example.testheadspace-1libarm64" />
+      <item value="Starting a blocking GC Alloc" />
+      <item value="WaitForGcToComplete blocked for 5.714ms for cause HeapTrim" />
+      <item value="Failed to allocate a 68706640 byte allocation with 16777216 free bytes and 34MB until OOM" />
+      <item value="Background sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 82MB82MB, paused 106.988ms total 857.182ms" />
       <item value="INSTALL FAILED TEST ONLY" />
       <item value="The project uses Gradle version which is incompatible with Studio running on Java 10 or newer. See" />
       <item value="Could not determine java version from '11.0.8'." />
@@ -47,15 +53,9 @@
       <item value="CREATOR" />
       <item value="write To Parcel" />
       <item value="describe Contents" />
-      <item value="analyzing" />
-      <item value="dumping" />
-      <item value="idle" />
-      <item value="MANUAL" />
-      <item value="is Enable Auto Detect" />
-      <item value="Global" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627281727595" />
+    <option name="lastTrimTime" value="1627885688466" />
   </component>
 </application>
