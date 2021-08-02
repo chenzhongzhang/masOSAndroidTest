@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="AllocSpace objects" />
+      <item value="cause Alloc" />
+      <item value="LOS objects" />
+      <item value="Background sticky concurrent mark sweep GC freed 15743(1927KB) AllocSpace objects" />
       <item value="Before Android 4.1, method android.graphics.PorterDuffColorFilter androidx.vectordrawable.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuffMode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable" />
       <item value="ClassLoader referenced unknown path: dataappcom.example.testheadspace-1libarm64" />
       <item value="Starting a blocking GC Alloc" />
@@ -49,10 +53,6 @@
       <item value="INSTANCE" />
       <item value="Check Conditions" />
       <item value="Dump Listener Wrapper" />
-      <item value="Re Analysis Detector" />
-      <item value="CREATOR" />
-      <item value="write To Parcel" />
-      <item value="describe Contents" />
     </histories>
   </component>
   <component name="Cache">
