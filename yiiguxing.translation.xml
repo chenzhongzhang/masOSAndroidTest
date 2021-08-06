@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="check Material Status" />
       <item value="android.app.Application cannot be cast to" />
       <item value="AllocSpace objects" />
       <item value="cause Alloc" />
@@ -52,7 +53,6 @@
       <item value="NORMA" />
       <item value="pre Check" />
       <item value="INSTANCE" />
-      <item value="Check Conditions" />
     </histories>
   </component>
   <component name="Cache">
