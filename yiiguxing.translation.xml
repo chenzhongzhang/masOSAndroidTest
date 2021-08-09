@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="This class is kept to support backward compatible deserialization." />
       <item value="check Material Status" />
       <item value="android.app.Application cannot be cast to" />
       <item value="AllocSpace objects" />
@@ -52,10 +53,9 @@
       <item value="FORK" />
       <item value="NORMA" />
       <item value="pre Check" />
-      <item value="INSTANCE" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627885688466" />
+    <option name="lastTrimTime" value="1628489656500" />
   </component>
 </application>
