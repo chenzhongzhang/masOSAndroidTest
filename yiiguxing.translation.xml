@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="DIR" />
+      <item value="EXTENSION" />
       <item value="MANUAL" />
       <item value="do check path is validate" />
       <item value="idle" />
@@ -51,8 +53,6 @@
       <item value="getVersion" />
       <item value="getVersionMaxUploadTimes" />
       <item value="MaxUploadTimes" />
-      <item value="get Dump Root Dir" />
-      <item value="get Poll Interval" />
     </histories>
   </component>
   <component name="Cache">
