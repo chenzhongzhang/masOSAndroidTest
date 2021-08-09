@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="m Is Sub Process" />
       <item value="Global" />
       <item value="EXTENSION" />
       <item value="DIR" />
@@ -52,7 +53,6 @@
       <item value="show Unreachable Objects" />
       <item value="is Target User" />
       <item value="getVersion" />
-      <item value="getVersionMaxUploadTimes" />
     </histories>
   </component>
   <component name="Cache">
