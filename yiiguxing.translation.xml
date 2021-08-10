@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="dump file dir is not exist" />
+      <item value="user is not in the white list" />
+      <item value="not support api level" />
+      <item value="too many times upload oom dump by same version" />
       <item value="MANUAL" />
       <item value="m Is Sub Process" />
       <item value="Global" />
@@ -49,10 +53,6 @@
       <item value="application Leaks" />
       <item value="do check is grey scale user" />
       <item value="use Full Trace" />
-      <item value="I Uploader" />
-      <item value="show Unreachable Objects" />
-      <item value="is Target User" />
-      <item value="getVersion" />
     </histories>
   </component>
   <component name="Cache">
