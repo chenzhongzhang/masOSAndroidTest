@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Sets the minimum version of CMake required to build the native library. You should either keep the default value or only pass a value of 3.4.0 or lower." />
       <item value="Ground State Monitor" />
       <item value="report when ground state has changed" />
       <item value="WARNING RE INIT CONFIG" />
@@ -52,7 +53,6 @@
       <item value="Could not determine java version from '11.0.8'." />
       <item value="The project uses Gradle version which is incompatible with Studio running on Java 10 or newer." />
       <item value="1 actionable task: 1 executed Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings. See https:docs.gradle.org6.5userguidecommand_line_interface" />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings." />
     </histories>
   </component>
   <component name="Cache">
