@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="allow aqts sdk user to set startup config info when enable startup monitor" />
       <item value="Splash Activity" />
       <item value="Splash" />
       <item value="dump file dir is not exist" />
@@ -52,7 +53,6 @@
       <item value="Wrapper" />
       <item value="Shark" />
       <item value="convert To Simple Report" />
-      <item value="application Leaks" />
     </histories>
   </component>
   <component name="Cache">
