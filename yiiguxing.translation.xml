@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="report when ground state has changed" />
+      <item value="WARNING RE INIT CONFIG" />
+      <item value="observable object for the ground state monitor" />
+      <item value="sdk init time,for recording run duration when crash happens" />
+      <item value="get Elapsed Real Time Mills" />
       <item value="Internal" />
       <item value="one of the uploadAdapterCallback or uploader must be set up,otherwise cannot upload" />
       <item value="set the callback for uploader adapter" />
@@ -48,11 +53,6 @@
       <item value="1 actionable task: 1 executed Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings. See https:docs.gradle.org6.5userguidecommand_line_interface" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings." />
       <item value="Copyright (C) 2008 Google Inc. Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
-      <item value="This project does not use the Gradle build system. We recommend that you migrate to using the Gradle build system." />
-      <item value="Migrate" />
-      <item value="Duration" />
-      <item value="Android resource linking failed Usersqinzhan.gradlecachestransforms-1files-1.1appmarket-dev-SNAPSHOT.aar181e42f1f67357d0d2fb41c9b364bd09resdrawablemarket_game_comment_ratingbar.xml:4: AAPT: warn: generated id 'android:idbackground' for external package 'android'." />
-      <item value="Sp" />
     </histories>
   </component>
   <component name="Cache">
