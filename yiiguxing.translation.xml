@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="set the callback for uploader adapter" />
+      <item value="set the callback for user appends ext info when crash happens" />
+      <item value="Threshhold" />
+      <item value="get Cold Start Up Threshhold Ms" />
       <item value="allow aqts sdk user to set startup config info when enable startup monitor" />
       <item value="Splash Activity" />
       <item value="Splash" />
@@ -49,10 +53,6 @@
       <item value="Sp" />
       <item value="HEAP OVER THRESHOL" />
       <item value="REANALYSIS" />
-      <item value="Inside" />
-      <item value="Wrapper" />
-      <item value="Shark" />
-      <item value="convert To Simple Report" />
     </histories>
   </component>
   <component name="Cache">
