@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Opens a [CloseableHeapGraph] which you can use to navigate the indexed hprof and then close." />
       <item value="helper methods." />
       <item value="An {@link IntentService} subclass for handling asynchronous task requests in a service on a separate handler thread." />
       <item value="An {@link IntentService} subclass for handling asynchronous task requests in" />
@@ -52,7 +53,6 @@
       <item value="Starting a blocking GC Alloc" />
       <item value="WaitForGcToComplete blocked for 5.714ms for cause HeapTrim" />
       <item value="Failed to allocate a 68706640 byte allocation with 16777216 free bytes and 34MB until OOM" />
-      <item value="Background sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 82MB82MB, paused 106.988ms total 857.182ms" />
     </histories>
   </component>
   <component name="Cache">
