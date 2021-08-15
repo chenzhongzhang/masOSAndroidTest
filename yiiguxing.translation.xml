@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="LAST DUMP FILE STATUS" />
+      <item value="MANUFACTURER" />
       <item value="use Full Trace" />
       <item value="use fulltrace" />
       <item value="Customize helper method" />
@@ -51,11 +53,9 @@
       <item value="AllocSpace objects" />
       <item value="cause Alloc" />
       <item value="LOS objects" />
-      <item value="Background sticky concurrent mark sweep GC freed 15743(1927KB) AllocSpace objects" />
-      <item value="Before Android 4.1, method android.graphics.PorterDuffColorFilter androidx.vectordrawable.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuffMode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628489656500" />
+    <option name="lastTrimTime" value="1629022881998" />
   </component>
 </application>
