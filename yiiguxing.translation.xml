@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="A [HeapGraph] that reads from an Hprof file indexed by [HprofIndex]." />
       <item value="rebuild Reference Chain" />
       <item value="remove Duplicate Leak Objects" />
       <item value="filter" />
@@ -52,7 +53,6 @@
       <item value="do check path is validate" />
       <item value="idle" />
       <item value="Copyright (C) 2018 Square, Inc. Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
-      <item value="Symbol is declared in module 'java.xml' which does not export package 'com.sun.org.apache.bcel.internal.generic'" />
     </histories>
   </component>
   <component name="Cache">
