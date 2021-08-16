@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Not included here: VmInternal: Ignoring because we've got 150K of it, but is this the right thing to do? What's VmInternal exactly? History does not go further than https:android.googlesource.complatformdalvik2+refsheadsmasterhitsrccomandroidhitHprofParser.java77 We should log to figure out what objects VmInternal points to. ReferenceCleanup: We used to keep it, but the name doesn't seem like it should create a leak. Unknown: it's unknown, should we care? We definitely don't care about those for leak finding: InternedString, Finalizing, Debugger, Unreachable" />
+      <item value="ThreadObject points to threads, which we need to find the thread that a JavaLocalPattern belongs to" />
       <item value="Creates an in memory index of an hprof source provided by [hprofSourceProvider]." />
       <item value="Executes the given [block] function on this resource and then closes it down correctly whether an exception is thrown or not. @param block a function to process this [Closeable] resource. @return the result of [block] function invoked on this resource." />
       <item value="Copyright 2010-2018 JetBrains s.r.o. and Kotlin Programming Language contributors. Use of this source code is governed by the Apache 2.0 license that can be found in the licenseLICENSE.txt file." />
@@ -51,8 +53,6 @@
       <item value="Splash Activity" />
       <item value="Splash" />
       <item value="dump file dir is not exist" />
-      <item value="user is not in the white list" />
-      <item value="not support api level" />
     </histories>
   </component>
   <component name="Cache">
