@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Hprof is deprecated, and we offer partial backward compatibility. Any code that was previously using HprofReader directly now has to call [StreamingHprofReader.readerFor] or [HprofRandomAcccessReader.readerFor]" />
+      <item value="Reads records in a Hprof source, one at a time with a specific position and size. Call [openReaderFor] to obtain a new instance." />
+      <item value="Utility function to create a [OnHprofRecordTagListener] from the passed in [block] lambda instead of using the anonymous `object : OnHprofRecordTagListener` syntax." />
       <item value="Executes the given [block] function on this resource and then closes it down correctly whether an exception is thrown or not. @param block a function to process this [Closeable] resource. @return the result of [block] function invoked on this resource." />
       <item value="Opens a [CloseableHeapGraph] which you can use to navigate the indexed hprof and then close." />
       <item value="Searches the heap dump for leaking instances and then computes the shortest strong reference path from those instances to the GC roots." />
@@ -50,9 +53,6 @@
       <item value="sdk init time,for recording run duration when crash happens" />
       <item value="get Elapsed Real Time Mills" />
       <item value="Internal" />
-      <item value="one of the uploadAdapterCallback or uploader must be set up,otherwise cannot upload" />
-      <item value="set the callback for uploader adapter" />
-      <item value="set the callback for user appends ext info when crash happens" />
     </histories>
   </component>
   <component name="Cache">
