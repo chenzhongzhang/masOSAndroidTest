@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Listener implementations are expected to read all bytes corresponding to a given tag from the provided reader before returning." />
       <item value="Executes the given [block] function on this resource and then closes it down correctly whether an exception is thrown or not." />
       <item value="Central Logger for all Shark artifacts. Set [logger] to change where these logs go." />
       <item value="How many bytes this reader has read from [source]. Can only increase." />
@@ -52,7 +53,6 @@
       <item value="Ground State Monitor" />
       <item value="report when ground state has changed" />
       <item value="WARNING RE INIT CONFIG" />
-      <item value="observable object for the ground state monitor" />
     </histories>
   </component>
   <component name="Cache">
