@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Executes the given [block] function on this resource and then closes it down correctly whether an exception is thrown or not." />
       <item value="Central Logger for all Shark artifacts. Set [logger] to change where these logs go." />
       <item value="How many bytes this reader has read from [source]. Can only increase." />
       <item value="Hprof is deprecated, and we offer partial backward compatibility. Any code that was previously using HprofReader directly now has to call [StreamingHprofReader.readerFor] or [HprofRandomAcccessReader.readerFor]" />
@@ -52,7 +53,6 @@
       <item value="report when ground state has changed" />
       <item value="WARNING RE INIT CONFIG" />
       <item value="observable object for the ground state monitor" />
-      <item value="sdk init time,for recording run duration when crash happens" />
     </histories>
   </component>
   <component name="Cache">
