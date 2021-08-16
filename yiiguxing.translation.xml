@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Central Logger for all Shark artifacts. Set [logger] to change where these logs go." />
+      <item value="How many bytes this reader has read from [source]. Can only increase." />
       <item value="Hprof is deprecated, and we offer partial backward compatibility. Any code that was previously using HprofReader directly now has to call [StreamingHprofReader.readerFor] or [HprofRandomAcccessReader.readerFor]" />
       <item value="Reads records in a Hprof source, one at a time with a specific position and size. Call [openReaderFor] to obtain a new instance." />
       <item value="Utility function to create a [OnHprofRecordTagListener] from the passed in [block] lambda instead of using the anonymous `object : OnHprofRecordTagListener` syntax." />
@@ -51,8 +53,6 @@
       <item value="WARNING RE INIT CONFIG" />
       <item value="observable object for the ground state monitor" />
       <item value="sdk init time,for recording run duration when crash happens" />
-      <item value="get Elapsed Real Time Mills" />
-      <item value="Internal" />
     </histories>
   </component>
   <component name="Cache">
