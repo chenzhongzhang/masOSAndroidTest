@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Searches the heap dump for leaking instances and then computes the shortest strong reference path from those instances to the GC roots." />
+      <item value="filters" />
+      <item value="@return the number of bytes read from the source" />
+      <item value="Obtains a new source to read all hprof records from and calls [listener] back for each record that matches one of the provided [recordTags]." />
+      <item value="First pass to count and correctly size arrays once and for all." />
       <item value="Creates a [StreamingHprofReader] that will call [StreamingSourceProvider.openStreamingSource] on every [readRecords] to obtain a [Source] to read the hprof data from. Before reading the hprof records, [StreamingHprofReader] will skip [HprofHeader.recordsPosition] bytes." />
       <item value="Reads the header of the provided [source] and returns it as a [HprofHeader]. This does not close the [source]." />
       <item value="Creates an in memory index of an hprof source provided by [hprofSourceProvider]." />
@@ -48,11 +53,6 @@
       <item value="one of the uploadAdapterCallback or uploader must be set up,otherwise cannot upload" />
       <item value="set the callback for uploader adapter" />
       <item value="set the callback for user appends ext info when crash happens" />
-      <item value="Threshhold" />
-      <item value="get Cold Start Up Threshhold Ms" />
-      <item value="allow aqts sdk user to set startup config info when enable startup monitor" />
-      <item value="Splash Activity" />
-      <item value="Splash" />
     </histories>
   </component>
   <component name="Cache">
