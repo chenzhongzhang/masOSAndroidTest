@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="build Leak Traces" />
+      <item value="inspect Objects" />
+      <item value="Opens a [CloseableHeapGraph] which you can use to navigate the indexed hprof and then close." />
       <item value="This first parses the file headers with [HprofHeader.parseHeaderOf], then indexes the file content with [HprofIndex.indexRecordsOf] and then opens a [CloseableHeapGraph] from the index, which" />
       <item value="A facility for opening a [CloseableHeapGraph] from a [File]." />
       <item value="A facility for opening a [CloseableHeapGraph] from a [File]. This first parses the file headers with [HprofHeader.parseHeaderOf], then indexes the file content with [HprofIndex.indexRecordsOf] and then opens a [CloseableHeapGraph] from the index, which you are responsible for closing after using." />
@@ -22,7 +25,6 @@
       <item value="use fulltrace" />
       <item value="Customize helper method" />
       <item value="detect" />
-      <item value="Opens a [CloseableHeapGraph] which you can use to navigate the indexed hprof and then close." />
       <item value="helper methods." />
       <item value="An {@link IntentService} subclass for handling asynchronous task requests in a service on a separate handler thread." />
       <item value="An {@link IntentService} subclass for handling asynchronous task requests in" />
@@ -51,8 +53,6 @@
       <item value="MANUAL" />
       <item value="m Is Sub Process" />
       <item value="Global" />
-      <item value="EXTENSION" />
-      <item value="DIR" />
     </histories>
   </component>
   <component name="Cache">
