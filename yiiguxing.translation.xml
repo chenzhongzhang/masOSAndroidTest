@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="This first parses the file headers with [HprofHeader.parseHeaderOf], then indexes the file content with [HprofIndex.indexRecordsOf] and then opens a [CloseableHeapGraph] from the index, which" />
+      <item value="A facility for opening a [CloseableHeapGraph] from a [File]." />
       <item value="A facility for opening a [CloseableHeapGraph] from a [File]. This first parses the file headers with [HprofHeader.parseHeaderOf], then indexes the file content with [HprofIndex.indexRecordsOf] and then opens a [CloseableHeapGraph] from the index, which you are responsible for closing after using." />
       <item value="A [HeapGraph] that reads from an Hprof file indexed by [HprofIndex]." />
       <item value="rebuild Reference Chain" />
@@ -51,8 +53,6 @@
       <item value="Global" />
       <item value="EXTENSION" />
       <item value="DIR" />
-      <item value="do check path is validate" />
-      <item value="idle" />
     </histories>
   </component>
   <component name="Cache">
