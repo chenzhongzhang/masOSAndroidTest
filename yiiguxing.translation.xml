@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="This class is not thread safe, should be used from a single thread." />
+      <item value="REFERENCE" />
+      <item value="identifier Size" />
       <item value="A primitive type in the prof." />
       <item value="The hprof defined &quot;basic type&quot; for references." />
       <item value="Not thread safe, should be used from a single thread." />
@@ -50,9 +53,6 @@
       <item value="INSPECTING OBJECTS" />
       <item value="FINDING PATHS TO RETAINED OBJECTS" />
       <item value="FINDING RETAINED OBJECTS" />
-      <item value="Reports progress from the [HeapAnalyzer] as they occur, as [Step] values. This is a functional interface with which you can create a [OnAnalysisProgressListener] from a lambda." />
-      <item value="LAST DUMP FILE STATUS" />
-      <item value="MANUFACTURER" />
     </histories>
   </component>
   <component name="Cache">
