@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="A primitive type in the prof." />
+      <item value="The hprof defined &quot;basic type&quot; for references." />
+      <item value="Not thread safe, should be used from a single thread." />
+      <item value="The Android Hprof format differs in some ways from that reference. This parser implementation is largely adapted from https:" />
+      <item value="Binary Dump Format reference" />
+      <item value="Binary Dump Format reference: http:hg.openjdk.java.netjdk6jdk6jdkraw-filetipsrcshare" />
+      <item value="Reads hprof content from an Okio [BufferedSource]." />
       <item value="Removes {@code byteCount} bytes from this, decodes them as UTF-8, and returns the string." />
       <item value="Shark parsing file failed: null" />
       <item value="The array holding keys." />
@@ -46,13 +53,6 @@
       <item value="Reports progress from the [HeapAnalyzer] as they occur, as [Step] values. This is a functional interface with which you can create a [OnAnalysisProgressListener] from a lambda." />
       <item value="LAST DUMP FILE STATUS" />
       <item value="MANUFACTURER" />
-      <item value="use Full Trace" />
-      <item value="use fulltrace" />
-      <item value="Customize helper method" />
-      <item value="detect" />
-      <item value="helper methods." />
-      <item value="An {@link IntentService} subclass for handling asynchronous task requests in a service on a separate handler thread." />
-      <item value="An {@link IntentService} subclass for handling asynchronous task requests in" />
     </histories>
   </component>
   <component name="Cache">
