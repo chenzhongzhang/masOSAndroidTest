@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Removes {@code byteCount} bytes from this, decodes them as UTF-8, and returns the string." />
       <item value="Shark parsing file failed: null" />
       <item value="The array holding keys." />
       <item value="Code from com.carrotsearch.hppc.LongLongScatterMap copy pasted, inlined and converted to Kotlin." />
@@ -52,7 +53,6 @@
       <item value="helper methods." />
       <item value="An {@link IntentService} subclass for handling asynchronous task requests in a service on a separate handler thread." />
       <item value="An {@link IntentService} subclass for handling asynchronous task requests in" />
-      <item value="a service on a separate handler thread" />
     </histories>
   </component>
   <component name="Cache">
