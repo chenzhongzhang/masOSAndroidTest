@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="type of the record" />
+      <item value="The size in bytes for each value of that type." />
+      <item value="Local ref optimizations" />
+      <item value="Position" />
+      <item value="How many bytes from the beginning of the file can we find the hprof records at. Version string, 0 delimiter (1 byte), identifier byte size int (4 bytes) ,timestamp long (8 bytes)" />
       <item value="Note:" />
       <item value="this performs two linear scans over arrays" />
       <item value="Not enough memory to allocate buffers for rehashing:" />
@@ -48,11 +53,6 @@
       <item value="inspect Objects" />
       <item value="This first parses the file headers with [HprofHeader.parseHeaderOf], then indexes the file content with [HprofIndex.indexRecordsOf] and then opens a [CloseableHeapGraph] from the index, which" />
       <item value="A facility for opening a [CloseableHeapGraph] from a [File]." />
-      <item value="A [HeapGraph] that reads from an Hprof file indexed by [HprofIndex]." />
-      <item value="rebuild Reference Chain" />
-      <item value="remove Duplicate Leak Objects" />
-      <item value="filter" />
-      <item value="filter reference instance count" />
     </histories>
   </component>
   <component name="Cache">
