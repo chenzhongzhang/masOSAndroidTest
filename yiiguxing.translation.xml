@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Note:" />
+      <item value="this performs two linear scans over arrays" />
+      <item value="Not enough memory to allocate buffers for rehashing:" />
       <item value="number of bytes that follow and belong to this record" />
       <item value="This class is not thread safe, should be used from a single thread." />
       <item value="REFERENCE" />
@@ -50,9 +53,6 @@
       <item value="remove Duplicate Leak Objects" />
       <item value="filter" />
       <item value="filter reference instance count" />
-      <item value="BUILDING LEAK TRACES" />
-      <item value="INSPECTING OBJECTS" />
-      <item value="FINDING PATHS TO RETAINED OBJECTS" />
     </histories>
   </component>
   <component name="Cache">
