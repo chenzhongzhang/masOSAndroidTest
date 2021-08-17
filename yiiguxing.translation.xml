@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="max Position" />
       <item value="type of the record" />
       <item value="The size in bytes for each value of that type." />
       <item value="Local ref optimizations" />
@@ -52,7 +53,6 @@
       <item value="build Leak Traces" />
       <item value="inspect Objects" />
       <item value="This first parses the file headers with [HprofHeader.parseHeaderOf], then indexes the file content with [HprofIndex.indexRecordsOf] and then opens a [CloseableHeapGraph] from the index, which" />
-      <item value="A facility for opening a [CloseableHeapGraph] from a [File]." />
     </histories>
   </component>
   <component name="Cache">
