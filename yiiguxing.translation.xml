@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="The array holding keys." />
+      <item value="Code from com.carrotsearch.hppc.LongLongScatterMap copy pasted, inlined and converted to Kotlin." />
       <item value="Unknown tag 0x50 at -1056119298 after 0x21 at 2767887" />
       <item value="Length of the record or -1 if there is the length is not known" />
       <item value="Listener implementations are expected to read all bytes corresponding to a given tag from the provided reader before returning." />
@@ -51,8 +53,6 @@
       <item value="An {@link IntentService} subclass for handling asynchronous task requests in" />
       <item value="a service on a separate handler thread" />
       <item value="TODO: Customize class - update intent actions, extra parameters and static" />
-      <item value="Sets the minimum version of CMake required to build the native library. You should either keep the default value or only pass a value of 3.4.0 or lower." />
-      <item value="Ground State Monitor" />
     </histories>
   </component>
   <component name="Cache">
