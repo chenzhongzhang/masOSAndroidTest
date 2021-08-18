@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Unreachable" />
       <item value="Local variable" />
       <item value="Local variable to prevent the ref from becoming null after the null check" />
       <item value="artifacts" />
@@ -52,7 +53,6 @@
       <item value="Obtains a new source to read all hprof records from and calls [listener] back for each record that matches one of the provided [recordTags]." />
       <item value="First pass to count and correctly size arrays once and for all." />
       <item value="Creates a [StreamingHprofReader] that will call [StreamingSourceProvider.openStreamingSource] on every [readRecords] to obtain a [Source] to read the hprof data from. Before reading the hprof records, [StreamingHprofReader] will skip [HprofHeader.recordsPosition] bytes." />
-      <item value="Reads the header of the provided [source] and returns it as a [HprofHeader]. This does not close the [source]." />
     </histories>
   </component>
   <component name="Cache">
