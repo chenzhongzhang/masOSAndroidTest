@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="failed to get reply to handshake packet" />
       <item value="Logs a [Throwable] and debug message formatted with the passed in arguments." />
       <item value="Logs a debug message formatted with the passed in arguments." />
       <item value="Central Logger for all Shark artifacts. Set [logger] to change where these logs go." />
@@ -52,7 +53,6 @@
       <item value="A facility for opening a [CloseableHeapGraph] from a [File]. This first parses the file headers with [HprofHeader.parseHeaderOf], then indexes the file content with [HprofIndex.indexRecordsOf] and then opens a [CloseableHeapGraph] from the index, which you are responsible for closing after using." />
       <item value="Not included here: VmInternal: Ignoring because we've got 150K of it, but is this the right thing to do? What's VmInternal exactly? History does not go further than https:android.googlesource.complatformdalvik2+refsheadsmasterhitsrccomandroidhitHprofParser.java77 We should log to figure out what objects VmInternal points to. ReferenceCleanup: We used to keep it, but the name doesn't seem like it should create a leak. Unknown: it's unknown, should we care? We definitely don't care about those for leak finding: InternedString, Finalizing, Debugger, Unreachable" />
       <item value="ThreadObject points to threads, which we need to find the thread that a JavaLocalPattern belongs to" />
-      <item value="Copyright 2010-2018 JetBrains s.r.o. and Kotlin Programming Language contributors. Use of this source code is governed by the Apache 2.0 license that can be found in the licenseLICENSE.txt file." />
     </histories>
   </component>
   <component name="Cache">
