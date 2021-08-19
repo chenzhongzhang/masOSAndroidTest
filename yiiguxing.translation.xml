@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Unsatisfied Link" />
+      <item value="java.lang.Unsatisfied Link Error:" />
+      <item value="java.lang.UnsatisfiedLinkError: No implementation found for int com.sina.weibo.aqts.oom.dump.DumpNative.suspendVMAndFork(int) (tried Java_com_sina_weibo_aqts_oom_dump_DumpNative_suspendVMAndFork and Java_com_sina_weibo_aqts_oom_dump_DumpNative_suspendVMAndFork__I)" />
       <item value="set complete user custom uploader" />
       <item value="convert To Simple Report" />
       <item value="Unreachable" />
@@ -50,9 +53,6 @@
       <item value="Executes the given [block] function on this resource and then closes it down correctly whether an exception is thrown or not. @param block a function to process this [Closeable] resource. @return the result of [block] function invoked on this resource." />
       <item value="Opens a [CloseableHeapGraph] which you can use to navigate the indexed hprof and then close." />
       <item value="Searches the heap dump for leaking instances and then computes the shortest strong reference path from those instances to the GC roots." />
-      <item value="filters" />
-      <item value="@return the number of bytes read from the source" />
-      <item value="Obtains a new source to read all hprof records from and calls [listener] back for each record that matches one of the provided [recordTags]." />
     </histories>
   </component>
   <component name="Cache">
