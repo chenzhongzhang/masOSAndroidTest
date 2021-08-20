@@ -3,10 +3,11 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="No Class Def Found Error" />
+      <item value="powered by FernFlower decompiler" />
+      <item value="Source code recreated from a .class file by IntelliJ IDEA" />
       <item value="WLogConfiguration builder,uid is initialized with null or empty,please check that it is correct" />
       <item value="(powered by FernFlower decompiler)" />
-      <item value="Source code recreated from a .class file by IntelliJ IDEA" />
-      <item value="No Class Def Found Error" />
       <item value="WSharedPreferencesImpl: getSharedPreferences" />
       <item value="Device" />
       <item value="the failed callback of upload" />
@@ -52,7 +53,6 @@
       <item value="Binary Dump Format reference: http:hg.openjdk.java.netjdk6jdk6jdkraw-filetipsrcshare" />
       <item value="Reads hprof content from an Okio [BufferedSource]." />
       <item value="Removes {@code byteCount} bytes from this, decodes them as UTF-8, and returns the string." />
-      <item value="Shark parsing file failed: null" />
     </histories>
   </component>
   <component name="Cache">
