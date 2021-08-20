@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Guard" />
+      <item value="m Guard" />
       <item value="No Class Def Found Error" />
       <item value="powered by FernFlower decompiler" />
       <item value="Source code recreated from a .class file by IntelliJ IDEA" />
@@ -51,8 +53,6 @@
       <item value="The Android Hprof format differs in some ways from that reference. This parser implementation is largely adapted from https:" />
       <item value="Binary Dump Format reference" />
       <item value="Binary Dump Format reference: http:hg.openjdk.java.netjdk6jdk6jdkraw-filetipsrcshare" />
-      <item value="Reads hprof content from an Okio [BufferedSource]." />
-      <item value="Removes {@code byteCount} bytes from this, decodes them as UTF-8, and returns the string." />
     </histories>
   </component>
   <component name="Cache">
