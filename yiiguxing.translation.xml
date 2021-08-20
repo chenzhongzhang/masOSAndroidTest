@@ -3,11 +3,11 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="WLogConfiguration builder,uid is initialized with null or empty,please check that it is correct" />
       <item value="(powered by FernFlower decompiler)" />
       <item value="Source code recreated from a .class file by IntelliJ IDEA" />
       <item value="No Class Def Found Error" />
       <item value="WSharedPreferencesImpl: getSharedPreferences" />
-      <item value="WLogConfiguration builder,uid is initialized with null or empty,please check that it is correct" />
       <item value="Device" />
       <item value="the failed callback of upload" />
       <item value="the success callback of upload." />
