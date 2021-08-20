@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Device" />
       <item value="the failed callback of upload" />
       <item value="the success callback of upload." />
       <item value="the http post filed name of upload interface.default is:addlogs(for weibo)" />
@@ -52,7 +53,6 @@
       <item value="Unknown tag 0x50 at -1056119298 after 0x21 at 2767887" />
       <item value="Length of the record or -1 if there is the length is not known" />
       <item value="Listener implementations are expected to read all bytes corresponding to a given tag from the provided reader before returning." />
-      <item value="Executes the given [block] function on this resource and then closes it down correctly whether an exception is thrown or not." />
     </histories>
   </component>
   <component name="Cache">
