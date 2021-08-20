@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="(powered by FernFlower decompiler)" />
+      <item value="Source code recreated from a .class file by IntelliJ IDEA" />
+      <item value="No Class Def Found Error" />
+      <item value="WSharedPreferencesImpl: getSharedPreferences" />
+      <item value="WLogConfiguration builder,uid is initialized with null or empty,please check that it is correct" />
       <item value="Device" />
       <item value="the failed callback of upload" />
       <item value="the success callback of upload." />
@@ -48,11 +53,6 @@
       <item value="Reads hprof content from an Okio [BufferedSource]." />
       <item value="Removes {@code byteCount} bytes from this, decodes them as UTF-8, and returns the string." />
       <item value="Shark parsing file failed: null" />
-      <item value="The array holding keys." />
-      <item value="Code from com.carrotsearch.hppc.LongLongScatterMap copy pasted, inlined and converted to Kotlin." />
-      <item value="Unknown tag 0x50 at -1056119298 after 0x21 at 2767887" />
-      <item value="Length of the record or -1 if there is the length is not known" />
-      <item value="Listener implementations are expected to read all bytes corresponding to a given tag from the provided reader before returning." />
     </histories>
   </component>
   <component name="Cache">
