@@ -3,6 +3,16 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="unknown step" />
+      <item value="reporting heap analysis" />
+      <item value="building leak traces" />
+      <item value="computing retained size" />
+      <item value="computing native retained size" />
+      <item value="finding dominators" />
+      <item value="finding path to retained objects" />
+      <item value="finding retained objects" />
+      <item value="parsing heap dump" />
+      <item value="filters" />
       <item value="Guard" />
       <item value="m Guard" />
       <item value="No Class Def Found Error" />
@@ -43,19 +53,9 @@
       <item value="Note:" />
       <item value="this performs two linear scans over arrays" />
       <item value="Not enough memory to allocate buffers for rehashing:" />
-      <item value="number of bytes that follow and belong to this record" />
-      <item value="This class is not thread safe, should be used from a single thread." />
-      <item value="REFERENCE" />
-      <item value="identifier Size" />
-      <item value="A primitive type in the prof." />
-      <item value="The hprof defined &quot;basic type&quot; for references." />
-      <item value="Not thread safe, should be used from a single thread." />
-      <item value="The Android Hprof format differs in some ways from that reference. This parser implementation is largely adapted from https:" />
-      <item value="Binary Dump Format reference" />
-      <item value="Binary Dump Format reference: http:hg.openjdk.java.netjdk6jdk6jdkraw-filetipsrcshare" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629022881998" />
+    <option name="lastTrimTime" value="1629547447661" />
   </component>
 </application>
