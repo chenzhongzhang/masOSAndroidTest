@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="convert Application" />
+      <item value="external Storage Max In MB" />
+      <item value="external Storage Free In MB" />
       <item value="unknown step" />
       <item value="reporting heap analysis" />
       <item value="building leak traces" />
@@ -50,9 +53,6 @@
       <item value="Local ref optimizations" />
       <item value="Position" />
       <item value="How many bytes from the beginning of the file can we find the hprof records at. Version string, 0 delimiter (1 byte), identifier byte size int (4 bytes) ,timestamp long (8 bytes)" />
-      <item value="Note:" />
-      <item value="this performs two linear scans over arrays" />
-      <item value="Not enough memory to allocate buffers for rehashing:" />
     </histories>
   </component>
   <component name="Cache">
