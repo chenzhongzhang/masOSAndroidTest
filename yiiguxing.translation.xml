@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="FATAL EXCEPTION" />
       <item value="convert Application" />
       <item value="external Storage Max In MB" />
       <item value="external Storage Free In MB" />
@@ -52,7 +53,6 @@
       <item value="The size in bytes for each value of that type." />
       <item value="Local ref optimizations" />
       <item value="Position" />
-      <item value="How many bytes from the beginning of the file can we find the hprof records at. Version string, 0 delimiter (1 byte), identifier byte size int (4 bytes) ,timestamp long (8 bytes)" />
     </histories>
   </component>
   <component name="Cache">
