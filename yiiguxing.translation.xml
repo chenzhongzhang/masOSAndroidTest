@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Invalid" />
       <item value="FATAL EXCEPTION" />
       <item value="convert Application" />
       <item value="external Storage Max In MB" />
@@ -52,7 +53,6 @@
       <item value="type of the record" />
       <item value="The size in bytes for each value of that type." />
       <item value="Local ref optimizations" />
-      <item value="Position" />
     </histories>
   </component>
   <component name="Cache">
