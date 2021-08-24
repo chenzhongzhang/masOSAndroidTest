@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="transform Classes With Weibo Application For Debug" />
+      <item value="Grey Scale Utils" />
       <item value="Invalid" />
       <item value="FATAL EXCEPTION" />
       <item value="convert Application" />
@@ -51,8 +53,6 @@
       <item value="Reads and discards {@code byteCount} bytes from this source. Throws an {@link java.io.EOFException} if the source is exhausted before the requested bytes can be skipped." />
       <item value="max Position" />
       <item value="type of the record" />
-      <item value="The size in bytes for each value of that type." />
-      <item value="Local ref optimizations" />
     </histories>
   </component>
   <component name="Cache">
