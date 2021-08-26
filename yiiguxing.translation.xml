@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="HARMONY" />
       <item value="just for testing in project mode" />
       <item value="Aqts Wrapper" />
       <item value="Wrapper" />
@@ -52,7 +53,6 @@
       <item value="ThreadObject points to threads, which we need to find the thread that a JavaLocalPattern" />
       <item value="failed to get reply to handshake packet" />
       <item value="Logs a [Throwable] and debug message formatted with the passed in arguments." />
-      <item value="Logs a debug message formatted with the passed in arguments." />
     </histories>
   </component>
   <component name="Cache">
