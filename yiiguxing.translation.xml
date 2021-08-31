@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="android:testOnly in the application in its manifest. This will also remove&quot; + &quot; device and profile owners" />
+      <item value="allow test packages (those that have set android:testOnly in their manifest) to be installed." />
+      <item value="@link android.R.styleableAndroidManifestApplication_testOnly android:testOnly} to be true." />
+      <item value="n order to make an apk test-only, add android:testOnly=&quot;true&quot; to the &amp;lt;application&amp;gt; tag in the manifest" />
       <item value="HARMONY" />
       <item value="just for testing in project mode" />
       <item value="Aqts Wrapper" />
@@ -49,13 +53,9 @@
       <item value="Local variable" />
       <item value="Local variable to prevent the ref from becoming null after the null check" />
       <item value="artifacts" />
-      <item value="Central Logger for all Shark artifacts. Set [logger] to change where these logs go." />
-      <item value="ThreadObject points to threads, which we need to find the thread that a JavaLocalPattern" />
-      <item value="failed to get reply to handshake packet" />
-      <item value="Logs a [Throwable] and debug message formatted with the passed in arguments." />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629547447661" />
+    <option name="lastTrimTime" value="1630382475198" />
   </component>
 </application>
