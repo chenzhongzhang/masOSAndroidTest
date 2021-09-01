@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Provides LeakCanary with insights about objects (classes, instances and arrays) found in the heap. [inspect] will be called for each object that LeakCanary wants to know more about. The implementation can then use the provided [ObjectReporter] to provide insights for that object." />
       <item value="android:testOnly in the application in its manifest. This will also remove&quot; + &quot; device and profile owners" />
       <item value="allow test packages (those that have set android:testOnly in their manifest) to be installed." />
       <item value="@link android.R.styleableAndroidManifestApplication_testOnly android:testOnly} to be true." />
@@ -52,7 +53,6 @@
       <item value="Unreachable" />
       <item value="Local variable" />
       <item value="Local variable to prevent the ref from becoming null after the null check" />
-      <item value="artifacts" />
     </histories>
   </component>
   <component name="Cache">
