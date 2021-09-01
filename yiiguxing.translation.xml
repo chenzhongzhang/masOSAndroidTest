@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Enables [ObjectInspector] implementations to provide insights on [heapObject], which is an object (class, instance or array) found in the heap. A given [ObjectReporter] only maps to one object in the heap, but is shared to many [ObjectInspector] implementations and accumulates insights." />
+      <item value="whenInstanceOf(expectedClass.java.name, block)" />
+      <item value="Runs [block] if [ObjectReporter.heapObject] is an instance of [expectedClass]." />
+      <item value="Creates a list of [LeakingObjectFilter] based on the passed in [ObjectInspectors]." />
+      <item value="This is an anonymous class implementing an interface. The API does not give access to the interfaces implemented by the class. We check if it's in the class path and use that instead." />
+      <item value="A set of default [ObjectInspector]s that knows about common JDK objects." />
+      <item value="Utility function to create a [ObjectInspector] from the passed in [block] lambda instead of using the anonymous `object : OnHeapAnalyzedListener` syntax." />
       <item value="Provides LeakCanary with insights about objects (classes, instances and arrays) found in the heap. [inspect] will be called for each object that LeakCanary wants to know more about. The implementation can then use the provided [ObjectReporter] to provide insights for that object." />
       <item value="android:testOnly in the application in its manifest. This will also remove&quot; + &quot; device and profile owners" />
       <item value="allow test packages (those that have set android:testOnly in their manifest) to be installed." />
@@ -46,13 +53,6 @@
       <item value="the url of upload." />
       <item value="allow aqts sdk user to set startup config info when enable startup monitor" />
       <item value="Unsatisfied Link" />
-      <item value="java.lang.Unsatisfied Link Error:" />
-      <item value="java.lang.UnsatisfiedLinkError: No implementation found for int com.sina.weibo.aqts.oom.dump.DumpNative.suspendVMAndFork(int) (tried Java_com_sina_weibo_aqts_oom_dump_DumpNative_suspendVMAndFork and Java_com_sina_weibo_aqts_oom_dump_DumpNative_suspendVMAndFork__I)" />
-      <item value="set complete user custom uploader" />
-      <item value="convert To Simple Report" />
-      <item value="Unreachable" />
-      <item value="Local variable" />
-      <item value="Local variable to prevent the ref from becoming null after the null check" />
     </histories>
   </component>
   <component name="Cache">
