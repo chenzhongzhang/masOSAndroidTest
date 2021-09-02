@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Fields from build type: debug" />
       <item value="Enables [ObjectInspector] implementations to provide insights on [heapObject], which is an object (class, instance or array) found in the heap. A given [ObjectReporter] only maps to one object in the heap, but is shared to many [ObjectInspector] implementations and accumulates insights." />
       <item value="whenInstanceOf(expectedClass.java.name, block)" />
       <item value="Runs [block] if [ObjectReporter.heapObject] is an instance of [expectedClass]." />
@@ -52,7 +53,6 @@
       <item value="the http params of upload interface." />
       <item value="the url of upload." />
       <item value="allow aqts sdk user to set startup config info when enable startup monitor" />
-      <item value="Unsatisfied Link" />
     </histories>
   </component>
   <component name="Cache">
