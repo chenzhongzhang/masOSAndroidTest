@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="The result of a successful heap analysis performed by [HeapAnalyzer]" />
       <item value="IntelliJ API Decompiler stub source generated from a class file Implementation of methods is not available" />
       <item value="Fields from build type: debug" />
       <item value="Enables [ObjectInspector] implementations to provide insights on [heapObject], which is an object (class, instance or array) found in the heap. A given [ObjectReporter] only maps to one object in the heap, but is shared to many [ObjectInspector] implementations and accumulates insights." />
@@ -52,10 +53,9 @@
       <item value="the http post filed name of upload interface.default is:addlogs(for weibo)" />
       <item value="the http headers of upload interface" />
       <item value="the http params of upload interface." />
-      <item value="the url of upload." />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630382475198" />
+    <option name="lastTrimTime" value="1630894018937" />
   </component>
 </application>
