@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="detect file" />
+      <item value="detect" />
       <item value="Utility function to create a [OnAnalysisProgressListener] from the passed in [block] lambda instead of using the anonymous `object : OnAnalysisProgressListener` syntax." />
       <item value="The result of a successful heap analysis performed by [HeapAnalyzer]" />
       <item value="IntelliJ API Decompiler stub source generated from a class file Implementation of methods is not available" />
@@ -51,8 +53,6 @@
       <item value="Device" />
       <item value="the failed callback of upload" />
       <item value="the success callback of upload." />
-      <item value="the http post filed name of upload interface.default is:addlogs(for weibo)" />
-      <item value="the http headers of upload interface" />
     </histories>
   </component>
   <component name="Cache">
