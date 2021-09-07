@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="do check path is validate" />
       <item value="Guard Keeper" />
       <item value="detect file" />
       <item value="detect" />
@@ -52,7 +53,6 @@
       <item value="(powered by FernFlower decompiler)" />
       <item value="WSharedPreferencesImpl: getSharedPreferences" />
       <item value="Device" />
-      <item value="the failed callback of upload" />
     </histories>
   </component>
   <component name="Cache">
