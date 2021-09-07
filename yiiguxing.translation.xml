@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Guard Keeper" />
       <item value="detect file" />
       <item value="detect" />
       <item value="Utility function to create a [OnAnalysisProgressListener] from the passed in [block] lambda instead of using the anonymous `object : OnAnalysisProgressListener` syntax." />
@@ -52,7 +53,6 @@
       <item value="WSharedPreferencesImpl: getSharedPreferences" />
       <item value="Device" />
       <item value="the failed callback of upload" />
-      <item value="the success callback of upload." />
     </histories>
   </component>
   <component name="Cache">
