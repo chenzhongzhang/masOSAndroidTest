@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Create a new ResultReceive to receive results. Your {@link onReceiveResult} method will be called from the thread running &lt;var&gt;handler&lt;var&gt; if given, or from an arbitrary thread if null." />
       <item value="do check path is validate" />
       <item value="Guard Keeper" />
       <item value="detect file" />
@@ -52,10 +53,9 @@
       <item value="WLogConfiguration builder,uid is initialized with null or empty,please check that it is correct" />
       <item value="(powered by FernFlower decompiler)" />
       <item value="WSharedPreferencesImpl: getSharedPreferences" />
-      <item value="Device" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630894018937" />
+    <option name="lastTrimTime" value="1631501849850" />
   </component>
 </application>
