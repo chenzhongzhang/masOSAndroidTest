@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Creates an IntentService. Invoked by your subclass's constructor. @param name Used to name the worker thread, important only for debugging." />
       <item value="Iservice should be declared in a file called comleehouraidldemoIservice.aidl" />
       <item value="set Custom Config" />
       <item value="Custom" />
@@ -52,7 +53,6 @@
       <item value="m Guard" />
       <item value="No Class Def Found Error" />
       <item value="powered by FernFlower decompiler" />
-      <item value="Source code recreated from a .class file by IntelliJ IDEA" />
     </histories>
   </component>
   <component name="Cache">
