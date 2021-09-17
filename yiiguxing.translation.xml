@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Unless you provide binding for your service, you don't need to implement this method, because the default implementation returns null." />
       <item value="Rename parameters" />
       <item value="Customize class" />
       <item value="Customize class -" />
@@ -52,7 +53,6 @@
       <item value="finding dominators" />
       <item value="finding path to retained objects" />
       <item value="finding retained objects" />
-      <item value="parsing heap dump" />
     </histories>
   </component>
   <component name="Cache">
