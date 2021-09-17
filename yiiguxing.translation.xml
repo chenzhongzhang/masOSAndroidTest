@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Rename parameters" />
       <item value="Customize class" />
       <item value="Customize class -" />
       <item value="Rename actions, choose action names that describe tasks that this" />
@@ -52,7 +53,6 @@
       <item value="finding path to retained objects" />
       <item value="finding retained objects" />
       <item value="parsing heap dump" />
-      <item value="filters" />
     </histories>
   </component>
   <component name="Cache">
