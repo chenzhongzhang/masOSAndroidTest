@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="You should not override this method for your IntentService. Instead, override {@link onHandleIntent}, which the system calls when the IntentService receives a start request." />
       <item value="Unless you provide binding for your service, you don't need to implement this method, because the default implementation returns null." />
       <item value="Rename parameters" />
       <item value="Customize class" />
@@ -52,7 +53,6 @@
       <item value="computing native retained size" />
       <item value="finding dominators" />
       <item value="finding path to retained objects" />
-      <item value="finding retained objects" />
     </histories>
   </component>
   <component name="Cache">
