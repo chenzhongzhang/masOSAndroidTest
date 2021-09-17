@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Customize class" />
+      <item value="Customize class -" />
+      <item value="Rename actions, choose action names that describe tasks that this" />
+      <item value="An {@link IntentService} subclass for handling asynchronous task requests in a service on a separate handler thread. &lt;p&gt; &lt;p&gt; TODO: Customize class - update intent actions, extra parameters and static helper methods." />
       <item value="Creates an IntentService. Invoked by your subclass's constructor. @param name Used to name the worker thread, important only for debugging." />
       <item value="Iservice should be declared in a file called comleehouraidldemoIservice.aidl" />
       <item value="set Custom Config" />
@@ -49,10 +53,6 @@
       <item value="finding retained objects" />
       <item value="parsing heap dump" />
       <item value="filters" />
-      <item value="Guard" />
-      <item value="m Guard" />
-      <item value="No Class Def Found Error" />
-      <item value="powered by FernFlower decompiler" />
     </histories>
   </component>
   <component name="Cache">
