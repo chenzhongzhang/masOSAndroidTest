@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="上次内存泄露检测的Hprof文件需要进行分析" />
+      <item value="上次内存泄露检测的Hprof文件可再进行分析" />
+      <item value="上一次内存泄露检测的Hprof文件不可再利用" />
+      <item value="上一次的分析进程还在执行分析任务" />
       <item value="连接Service失败" />
       <item value="服务端判断Hprof文件可再利用,解绑服务，对该Hprof文件进行分析" />
       <item value="服务端判断Hprof文件不可再利用，解绑服务，直接返回，进行自己的dump" />
@@ -49,10 +53,6 @@
       <item value="Provides LeakCanary with insights about objects (classes, instances and arrays) found in the heap. [inspect] will be called for each object that LeakCanary wants to know more about. The implementation can then use the provided [ObjectReporter] to provide insights for that object." />
       <item value="android:testOnly in the application in its manifest. This will also remove&quot; + &quot; device and profile owners" />
       <item value="allow test packages (those that have set android:testOnly in their manifest) to be installed." />
-      <item value="@link android.R.styleableAndroidManifestApplication_testOnly android:testOnly} to be true." />
-      <item value="n order to make an apk test-only, add android:testOnly=&quot;true&quot; to the &amp;lt;application&amp;gt; tag in the manifest" />
-      <item value="HARMONY" />
-      <item value="just for testing in project mode" />
     </histories>
   </component>
   <component name="Cache">
