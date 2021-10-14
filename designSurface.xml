@@ -15,11 +15,11 @@
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_other.xml" value="0.1322463768115942" />
         <entry key="client/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="demo/src/main/res/layout/activity_crash.xml" value="0.1296875" />
+        <entry key="demo/src/main/res/layout/activity_crash.xml" value="0.3333333333333333" />
         <entry key="demo/src/main/res/layout/activity_leak_empty.xml" value="0.125" />
         <entry key="demo/src/main/res/layout/activity_main.xml" value="0.16875" />
-        <entry key="demo/src/main/res/layout/activity_main2.xml" value="0.1296875" />
-        <entry key="demo/src/main/res/layout/activity_o_o_m.xml" value="0.22708333333333333" />
+        <entry key="demo/src/main/res/layout/activity_main2.xml" value="0.3333333333333333" />
+        <entry key="demo/src/main/res/layout/activity_o_o_m.xml" value="0.33229166666666665" />
         <entry key="demo/src/main/res/layout/oom_test_item.xml" value="0.17844202898550723" />
         <entry key="happydoudizhu/src/main/res/layout/activity_main.xml" value="0.29583333333333334" />
         <entry key="sdk/src/main/res/layout/activity_main.xml" value="0.1" />
