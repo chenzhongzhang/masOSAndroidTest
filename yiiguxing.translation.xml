@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="if user does not set the upload process, main process will be set to the upload process" />
       <item value="is Foreground" />
       <item value="上次内存泄露检测的Hprof文件需要进行分析" />
       <item value="上次内存泄露检测的Hprof文件可再进行分析" />
@@ -52,7 +53,6 @@
       <item value="A set of default [ObjectInspector]s that knows about common JDK objects." />
       <item value="Utility function to create a [ObjectInspector] from the passed in [block] lambda instead of using the anonymous `object : OnHeapAnalyzedListener` syntax." />
       <item value="Provides LeakCanary with insights about objects (classes, instances and arrays) found in the heap. [inspect] will be called for each object that LeakCanary wants to know more about. The implementation can then use the provided [ObjectReporter] to provide insights for that object." />
-      <item value="android:testOnly in the application in its manifest. This will also remove&quot; + &quot; device and profile owners" />
     </histories>
   </component>
   <component name="Cache">
