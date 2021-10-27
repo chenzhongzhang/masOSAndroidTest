@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="NORM PRIORITY" />
       <item value="Override to receive results delivered to this object. @param resultCode Arbitrary result code delivered by the sender, as defined by the sender. @param resultData Any additional data provided by the sender." />
       <item value="Inserts a Parcelable value into the mapping of this Bundle, replacing any existing value for the given key. Either key or value may be null." />
       <item value="if user does not set the upload process, main process will be set to the upload process" />
@@ -52,7 +53,6 @@
       <item value="Runs [block] if [ObjectReporter.heapObject] is an instance of [expectedClass]." />
       <item value="Creates a list of [LeakingObjectFilter] based on the passed in [ObjectInspectors]." />
       <item value="This is an anonymous class implementing an interface. The API does not give access to the interfaces implemented by the class. We check if it's in the class path and use that instead." />
-      <item value="A set of default [ObjectInspector]s that knows about common JDK objects." />
     </histories>
   </component>
   <component name="Cache">
