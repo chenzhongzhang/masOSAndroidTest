@@ -1,0 +1,26 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-11-09T17:22:08</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">4.2.2.0</property>
+    <property name="modified">2021-11-09T17:22:59</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="79fe" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="fa00" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="fdcc00" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
