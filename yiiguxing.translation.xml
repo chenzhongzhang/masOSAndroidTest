@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="scale" />
       <item value="do check is grey scale user" />
       <item value="get the external storage path" />
       <item value="when getDefaultDir happens err,return null" />
@@ -52,10 +53,9 @@
       <item value="do check path is validate" />
       <item value="Guard Keeper" />
       <item value="detect file" />
-      <item value="detect" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635214549259" />
+    <option name="lastTrimTime" value="1636430391113" />
   </component>
 </application>
