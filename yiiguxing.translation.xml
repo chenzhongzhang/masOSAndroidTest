@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Declare any non-default types here with import statements" />
       <item value="scale" />
       <item value="do check is grey scale user" />
       <item value="get the external storage path" />
@@ -52,7 +53,6 @@
       <item value="Create a new ResultReceive to receive results. Your {@link onReceiveResult} method will be called from the thread running &lt;var&gt;handler&lt;var&gt; if given, or from an arbitrary thread if null." />
       <item value="do check path is validate" />
       <item value="Guard Keeper" />
-      <item value="detect file" />
     </histories>
   </component>
   <component name="Cache">
