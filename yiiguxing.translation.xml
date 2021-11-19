@@ -3,12 +3,13 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
-      <item value="Check Phone Bind Task" />
-      <item value="async Add Account And Sync" />
       <item value="update Config" />
-      <item value="request Sync" />
+      <item value="check If Sync Guard" />
       <item value="async Add Current Account" />
       <item value="sync Add Current Account" />
+      <item value="Check Phone Bind Task" />
+      <item value="async Add Account And Sync" />
+      <item value="request Sync" />
       <item value="Declare any non-default types here with import statements" />
       <item value="scale" />
       <item value="do check is grey scale user" />
@@ -52,7 +53,6 @@
       <item value="Customize class -" />
       <item value="Rename actions, choose action names that describe tasks that this" />
       <item value="An {@link IntentService} subclass for handling asynchronous task requests in a service on a separate handler thread. &lt;p&gt; &lt;p&gt; TODO: Customize class - update intent actions, extra parameters and static helper methods." />
-      <item value="Creates an IntentService. Invoked by your subclass's constructor. @param name Used to name the worker thread, important only for debugging." />
     </histories>
   </component>
   <component name="Cache">
