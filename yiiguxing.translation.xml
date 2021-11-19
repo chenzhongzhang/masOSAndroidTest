@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Check Phone Bind Task" />
+      <item value="async Add Account And Sync" />
+      <item value="update Config" />
+      <item value="request Sync" />
+      <item value="async Add Current Account" />
+      <item value="sync Add Current Account" />
       <item value="Declare any non-default types here with import statements" />
       <item value="scale" />
       <item value="do check is grey scale user" />
@@ -47,15 +53,9 @@
       <item value="Rename actions, choose action names that describe tasks that this" />
       <item value="An {@link IntentService} subclass for handling asynchronous task requests in a service on a separate handler thread. &lt;p&gt; &lt;p&gt; TODO: Customize class - update intent actions, extra parameters and static helper methods." />
       <item value="Creates an IntentService. Invoked by your subclass's constructor. @param name Used to name the worker thread, important only for debugging." />
-      <item value="Iservice should be declared in a file called comleehouraidldemoIservice.aidl" />
-      <item value="set Custom Config" />
-      <item value="Custom" />
-      <item value="Create a new ResultReceive to receive results. Your {@link onReceiveResult} method will be called from the thread running &lt;var&gt;handler&lt;var&gt; if given, or from an arbitrary thread if null." />
-      <item value="do check path is validate" />
-      <item value="Guard Keeper" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636430391113" />
+    <option name="lastTrimTime" value="1637323024807" />
   </component>
 </application>
