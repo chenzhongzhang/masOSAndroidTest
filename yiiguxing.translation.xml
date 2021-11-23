@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="feature Valid" />
       <item value="update Config" />
       <item value="check If Sync Guard" />
       <item value="async Add Current Account" />
@@ -52,7 +53,6 @@
       <item value="Customize class" />
       <item value="Customize class -" />
       <item value="Rename actions, choose action names that describe tasks that this" />
-      <item value="An {@link IntentService} subclass for handling asynchronous task requests in a service on a separate handler thread. &lt;p&gt; &lt;p&gt; TODO: Customize class - update intent actions, extra parameters and static helper methods." />
     </histories>
   </component>
   <component name="Cache">
