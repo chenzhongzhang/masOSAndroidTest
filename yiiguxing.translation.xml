@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="is Feature Enabled" />
+      <item value="Grey Scale Utils" />
       <item value="feature Valid" />
       <item value="update Config" />
       <item value="check If Sync Guard" />
@@ -51,8 +53,6 @@
       <item value="Unless you provide binding for your service, you don't need to implement this method, because the default implementation returns null." />
       <item value="Rename parameters" />
       <item value="Customize class" />
-      <item value="Customize class -" />
-      <item value="Rename actions, choose action names that describe tasks that this" />
     </histories>
   </component>
   <component name="Cache">
