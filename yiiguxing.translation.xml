@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="get Feature Str State" />
       <item value="is Feature Enabled" />
       <item value="Grey Scale Utils" />
       <item value="feature Valid" />
@@ -52,7 +53,6 @@
       <item value="You should not override this method for your IntentService. Instead, override {@link onHandleIntent}, which the system calls when the IntentService receives a start request." />
       <item value="Unless you provide binding for your service, you don't need to implement this method, because the default implementation returns null." />
       <item value="Rename parameters" />
-      <item value="Customize class" />
     </histories>
   </component>
   <component name="Cache">
