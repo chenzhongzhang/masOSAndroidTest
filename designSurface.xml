@@ -12,6 +12,7 @@
         <entry key="aidlclient/src/main/res/layout/activity_call_back.xml" value="0.271875" />
         <entry key="aidlclient/src/main/res/layout/activity_local_aidl.xml" value="0.271875" />
         <entry key="aidlclient/src/main/res/layout/activity_welcome.xml" value="0.2760416666666667" />
+        <entry key="allmodules/account/res/layout/login_activity_layout_new.xml" value="0.2390625" />
         <entry key="allmodules/main/res/layout/newprojectmode.xml" value="0.2644927536231884" />
         <entry key="app/src/main/res/layout/activity_app.xml" value="0.10733695652173914" />
         <entry key="app/src/main/res/layout/activity_binderi.xml" value="0.21145833333333333" />
