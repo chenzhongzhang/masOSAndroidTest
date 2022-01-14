@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="contains a path separator" />
       <item value="GRANTED" />
       <item value="OOM Config" />
       <item value="note:after enableDebug,enableSaveFile always true" />
@@ -52,7 +53,6 @@
       <item value="判断Hprof文件是否可利用" />
       <item value="判断进程存活情况" />
       <item value="检测之前是否绑定过服务" />
-      <item value="install" />
     </histories>
   </component>
   <component name="Cache">
