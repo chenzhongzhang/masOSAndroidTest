@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="interactive rebase in progress; onto c19d06d&#10;" />
       <item value="contains a path separator" />
       <item value="GRANTED" />
       <item value="OOM Config" />
@@ -52,7 +53,6 @@
       <item value="服务端判断Hprof文件不可再利用，解绑服务，直接返回，进行自己的dump" />
       <item value="判断Hprof文件是否可利用" />
       <item value="判断进程存活情况" />
-      <item value="检测之前是否绑定过服务" />
     </histories>
   </component>
   <component name="Cache">
