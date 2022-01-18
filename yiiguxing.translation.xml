@@ -4,8 +4,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
-      <item value="修改版本dump次数和用户身份的检查条件以及触发阈值发生dump时的流程。" />
       <item value="remote: select password from account_external_ids where external_id = &quot;username:qinzhan&quot; remote: Branch refs/heads/feature_changeDumpTime_TargetUser_threshold: remote: You need 'Push' rights with the 'Force Push' remote: flag set to delete references. remote: User: qinzhan remote: Please read the documentation and contact an administrator remote: if you feel the configuration is incorrect remote: remote: Processing changes: refs: 1 remote: Processing changes: refs: 1, done failed to push some refs to 'ssh://qinzhan@gerrit.client.weibo.cn:29419/Weibo-CMW/AndroidPhone/Support/Aqts'" />
+      <item value="emote: select password from account_external_ids where external_id = &quot;username:qinzhan&quot; remote: Branch refs/heads/feature_changeDumpTime_TargetUser_threshold: remote: You need 'Push' rights with the 'Force Push' remote: flag set to delete references. remote: User: qinzhan remote: Please read the documentation and contact an administrator remote: if you feel the configuration is incorrect remote: remote: Processing changes: refs: 1 remote: Processing changes: refs: 1, done failed to push some refs to 'ssh://qinzhan@gerrit.client.weibo.cn:29419/Weibo-CMW/AndroidPhone/Support/Aqts'" />
+      <item value="修改版本dump次数和用户身份的检查条件以及触发阈值发生dump时的流程。" />
       <item value="interactive rebase in progress; onto c19d06d&#10;" />
       <item value="contains a path separator" />
       <item value="GRANTED" />
@@ -53,7 +54,6 @@
       <item value="上一次的分析进程还在执行分析任务" />
       <item value="连接Service失败" />
       <item value="服务端判断Hprof文件可再利用,解绑服务，对该Hprof文件进行分析" />
-      <item value="服务端判断Hprof文件不可再利用，解绑服务，直接返回，进行自己的dump" />
     </histories>
   </component>
   <component name="Cache">
