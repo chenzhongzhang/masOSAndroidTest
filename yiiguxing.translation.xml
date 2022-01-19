@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Prepare to start making calls to the currently registered callbacks. This creates a copy of the callback list, which you can retrieve items from using {@link getBroadcastItem}. Note that only one broadcast can be active at a time, so you must be sure to always call this from the same thread (usually by scheduling with {@link Handler}) or do your own synchronization. You must call {@link finishBroadcast} when done." />
+      <item value="Returns the number of callbacks in the broadcast, to be used with {@link getBroadcastItem} to determine the range of indices you can supply." />
       <item value="remote: select password from account_external_ids where external_id = &quot;username:qinzhan&quot; remote: Branch refs/heads/feature_changeDumpTime_TargetUser_threshold: remote: You need 'Push' rights with the 'Force Push' remote: flag set to delete references. remote: User: qinzhan remote: Please read the documentation and contact an administrator remote: if you feel the configuration is incorrect remote: remote: Processing changes: refs: 1 remote: Processing changes: refs: 1, done failed to push some refs to 'ssh://qinzhan@gerrit.client.weibo.cn:29419/Weibo-CMW/AndroidPhone/Support/Aqts'" />
       <item value="emote: select password from account_external_ids where external_id = &quot;username:qinzhan&quot; remote: Branch refs/heads/feature_changeDumpTime_TargetUser_threshold: remote: You need 'Push' rights with the 'Force Push' remote: flag set to delete references. remote: User: qinzhan remote: Please read the documentation and contact an administrator remote: if you feel the configuration is incorrect remote: remote: Processing changes: refs: 1 remote: Processing changes: refs: 1, done failed to push some refs to 'ssh://qinzhan@gerrit.client.weibo.cn:29419/Weibo-CMW/AndroidPhone/Support/Aqts'" />
       <item value="修改版本dump次数和用户身份的检查条件以及触发阈值发生dump时的流程。" />
@@ -52,11 +54,9 @@
       <item value="上次内存泄露检测的Hprof文件可再进行分析" />
       <item value="上一次内存泄露检测的Hprof文件不可再利用" />
       <item value="上一次的分析进程还在执行分析任务" />
-      <item value="连接Service失败" />
-      <item value="服务端判断Hprof文件可再利用,解绑服务，对该Hprof文件进行分析" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642143745642" />
+    <option name="lastTrimTime" value="1642587666334" />
   </component>
 </application>
