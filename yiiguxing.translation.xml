@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="非灰度用户" />
+      <item value="非hui" />
+      <item value="非会滴" />
+      <item value="非" />
+      <item value="非hi" />
+      <item value="飞灰度" />
+      <item value="grey scale" />
       <item value="Starts this service to perform action Foo with the given parameters. If the service is already performing a task this action will be queued." />
       <item value="Prepare to start making calls to the currently registered callbacks. This creates a copy of the callback list, which you can retrieve items from using {@link getBroadcastItem}. Note that only one broadcast can be active at a time, so you must be sure to always call this from the same thread (usually by scheduling with {@link Handler}) or do your own synchronization. You must call {@link finishBroadcast} when done." />
       <item value="Returns the number of callbacks in the broadcast, to be used with {@link getBroadcastItem} to determine the range of indices you can supply." />
@@ -47,13 +54,6 @@
       <item value="Weak reference objects, which do not prevent their referents from being made finalizable, finalized, and then reclaimed. Weak references are most often used to implement canonicalizing mappings. &lt;p&gt; Suppose that the garbage collector determines at a certain point in time that an object is &lt;a href=&quot;package-summary.htmlreachability&quot;&gt;weakly reachable&lt;a&gt;. At that time it will atomically clear all weak references to that object and all weak references to any other weakly-reachable objects from which that object is reachable through a chain of strong and soft references. At the same time it will declare all of the formerly weakly-reachable objects to be finalizable. At the same time or at some later time it will enqueue those newly-cleared weak references that are registered with reference queues." />
       <item value="Returns singleton class instance" />
       <item value="NORM PRIORITY" />
-      <item value="Override to receive results delivered to this object. @param resultCode Arbitrary result code delivered by the sender, as defined by the sender. @param resultData Any additional data provided by the sender." />
-      <item value="Inserts a Parcelable value into the mapping of this Bundle, replacing any existing value for the given key. Either key or value may be null." />
-      <item value="if user does not set the upload process, main process will be set to the upload process" />
-      <item value="is Foreground" />
-      <item value="上次内存泄露检测的Hprof文件需要进行分析" />
-      <item value="上次内存泄露检测的Hprof文件可再进行分析" />
-      <item value="上一次内存泄露检测的Hprof文件不可再利用" />
     </histories>
   </component>
   <component name="Cache">
