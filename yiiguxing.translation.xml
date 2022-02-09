@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="595" />
     <option name="newTranslationDialogY" value="-738" />
     <histories>
+      <item value="Interface for receiving a callback when the process hosting an IBinder has gone away." />
+      <item value="Register the recipient for a notification if this binder goes away. If this binder object unexpectedly goes away (typically because its hosting process has been killed), then the given {@link DeathRecipient}'s {@link DeathRecipientbinderDied DeathRecipient.binderDied()} method will be called. &lt;p&gt;You will only receive death notifications for remote binders, as local binders by definition can't die without you dying as well. @throws RemoteException if the target IBinder's process has already died." />
       <item value="Old version of {@link onCallbackDied(E, Object)} that does not provide a cookie." />
       <item value="Return any cookie associated with a currently registered callback. Note that this is not the same as getBroadcastCookie(int) and should not be used interchangeably with it. This method returns the current cookie registered at the given index, not the current broadcast state. This means that it is not itself thread-safe: any call to register(E) or unregister(E) will change these indices, so you must do your own thread safety between these to protect from such changes.&#10;&#10;" />
       <item value="Flag unusual case that could be caused by a leak. b36778087" />
@@ -53,8 +55,6 @@
       <item value="is Feature Enabled" />
       <item value="Grey Scale Utils" />
       <item value="feature Valid" />
-      <item value="update Config" />
-      <item value="check If Sync Guard" />
     </histories>
   </component>
   <component name="Cache">
