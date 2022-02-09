@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="372" />
-    <option name="newTranslationDialogX" value="566" />
-    <option name="newTranslationDialogY" value="359" />
+    <option name="newTranslationDialogWidth" value="643" />
+    <option name="newTranslationDialogX" value="595" />
+    <option name="newTranslationDialogY" value="-738" />
     <histories>
+      <item value="Old version of {@link onCallbackDied(E, Object)} that does not provide a cookie." />
       <item value="Return any cookie associated with a currently registered callback. Note that this is not the same as getBroadcastCookie(int) and should not be used interchangeably with it. This method returns the current cookie registered at the given index, not the current broadcast state. This means that it is not itself thread-safe: any call to register(E) or unregister(E) will change these indices, so you must do your own thread safety between these to protect from such changes.&#10;&#10;" />
       <item value="Flag unusual case that could be caused by a leak. b36778087" />
       <item value="Returns the number of registered callbacks. Note that the number of registered callbacks may differ from the value returned by {@link beginBroadcast()} since the former returns the number of callbacks registered at the time of the call and the second the number of callback to which the broadcast will be delivered. &lt;p&gt; This function is useful to decide whether to schedule a broadcast if this requires doing some work which otherwise would not be performed." />
@@ -53,10 +55,9 @@
       <item value="feature Valid" />
       <item value="update Config" />
       <item value="check If Sync Guard" />
-      <item value="async Add Current Account" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642587666334" />
+    <option name="lastTrimTime" value="1644378497630" />
   </component>
 </application>
