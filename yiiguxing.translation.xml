@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="595" />
     <option name="newTranslationDialogY" value="-738" />
     <histories>
+      <item value="Remove a previously registered death notification. The recipient will no longer be called if this object dies. @return {@code true} if the &lt;var&gt;recipient&lt;var&gt; is successfully unlinked, assuring you that its {@link DeathRecipientbinderDied DeathRecipient.binderDied()} method will not be called; {@code false} if the target IBinder has already died, meaning the method has been (or soon will be) called. @throws java.util.NoSuchElementException if the given &lt;var&gt;recipient&lt;var&gt; has not been registered with the IBinder, and the IBinder is still alive. Note that if the &lt;var&gt;recipient&lt;var&gt; was never registered, but the IBinder has already died, then this exception will &lt;em&gt;not&lt;em&gt; be thrown, and you will receive a false return value instead." />
       <item value="Interface for receiving a callback when the process hosting an IBinder has gone away." />
       <item value="Register the recipient for a notification if this binder goes away. If this binder object unexpectedly goes away (typically because its hosting process has been killed), then the given {@link DeathRecipient}'s {@link DeathRecipientbinderDied DeathRecipient.binderDied()} method will be called. &lt;p&gt;You will only receive death notifications for remote binders, as local binders by definition can't die without you dying as well. @throws RemoteException if the target IBinder's process has already died." />
       <item value="Old version of {@link onCallbackDied(E, Object)} that does not provide a cookie." />
@@ -54,7 +55,6 @@
       <item value="get Feature Str State" />
       <item value="is Feature Enabled" />
       <item value="Grey Scale Utils" />
-      <item value="feature Valid" />
     </histories>
   </component>
   <component name="Cache">
