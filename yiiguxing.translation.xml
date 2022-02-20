@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="595" />
     <option name="newTranslationDialogY" value="-738" />
     <histories>
+      <item value="No implementation found for int com.sina.weibo.aqts.oom.dump.DumpNative.suspendVMAndFork(int) (tried Java_com_sina_weibo_aqts_oom_dump_DumpNative_suspendVMAndFork and Java_com_sina_weibo_aqts_oom_dump_DumpNative_suspendVMAndFork__I)" />
       <item value="last dump retry times" />
       <item value="Quits the handler thread's looper. &lt;p&gt; Causes the handler thread's looper to terminate without processing any more messages in the message queue. &lt;p&gt;&lt;p&gt; Any attempt to post messages to the queue after the looper is asked to quit will fail. For example, the {@link HandlersendMessage(Message)} method will return false. &lt;p&gt;&lt;p class=&quot;note&quot;&gt; Using this method may be unsafe because some messages may not be delivered before the looper terminates. Consider using {@link quitSafely} instead to ensure that all pending work is completed in an orderly manner. &lt;p&gt; @return True if the looper looper has been asked to quit or false if the thread had not yet started running." />
       <item value="This method is called once every time the Application Zygote is started. It is normally started the first time an isolated service that uses it is started. The Application Zygote will be stopped when all isolated services that use it are stopped. @param appInfo The ApplicationInfo object belonging to the application" />
@@ -54,10 +55,9 @@
       <item value="Returns true if the string is null or 0-length." />
       <item value="Try to initialize Aqts which had already been initialized before." />
       <item value="android.os.BinderProxy cannot be cast to com.peng.baidumusic_box.IService" />
-      <item value="Caused by: java.lang.IllegalStateException: Not allowed to start service Intent { cmp=com.peng.baidumusic_box.MusicService }: app is in background uid UidRecord{c610711 u0a330 TPSL idle change:idle|cached procs:1 seq(0,0,0)}" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644829047190" />
+    <option name="lastTrimTime" value="1645372887695" />
   </component>
 </application>
