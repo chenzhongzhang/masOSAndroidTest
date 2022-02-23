@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="595" />
     <option name="newTranslationDialogY" value="-738" />
     <histories>
+      <item value="Creates an IntentService. Invoked by your subclass's constructor. @param name Used to name the worker thread, important only for debugging." />
       <item value="cannot be cast to" />
       <item value="存储" />
       <item value="store" />
@@ -54,7 +55,6 @@
       <item value="OOM Config" />
       <item value="note:after enableDebug,enableSaveFile always true" />
       <item value="init Internal" />
-      <item value="Aqts configuration builder,context can not be initialized with null" />
     </histories>
   </component>
   <component name="Cache">
