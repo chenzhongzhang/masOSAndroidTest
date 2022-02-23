@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="595" />
     <option name="newTranslationDialogY" value="-738" />
     <histories>
+      <item value="store" />
       <item value="We can assume mPtr != 0 because mQuitting was previously false." />
       <item value="No implementation found for int com.sina.weibo.aqts.oom.dump.DumpNative.suspendVMAndFork(int) (tried Java_com_sina_weibo_aqts_oom_dump_DumpNative_suspendVMAndFork and Java_com_sina_weibo_aqts_oom_dump_DumpNative_suspendVMAndFork__I)" />
       <item value="last dump retry times" />
@@ -54,7 +55,6 @@
       <item value="Aqts configuration builder,context can not be initialized with null" />
       <item value="Returns true if the string is null or 0-length. @param str the string to be examined @return true if str is null or zero length" />
       <item value="Returns true if the string is null or 0-length." />
-      <item value="Try to initialize Aqts which had already been initialized before." />
     </histories>
   </component>
   <component name="Cache">
