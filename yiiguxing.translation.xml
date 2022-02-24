@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="595" />
     <option name="newTranslationDialogY" value="-738" />
     <histories>
+      <item value="Constant to return from {@link onStartCommand}: if this service's process is killed while it is started (after returning from {@link onStartCommand}), and there are no new start intents to deliver to it, then take the service out of the started state and don't recreate until a future explicit call to {@link ContextstartService Context.startService(Intent)}. The service will not receive a {@link onStartCommand(Intent, int, int)} call with a null Intent because it will not be restarted if there are no pending Intents to deliver." />
       <item value="Creates an IntentService. Invoked by your subclass's constructor. @param name Used to name the worker thread, important only for debugging." />
       <item value="cannot be cast to" />
       <item value="存储" />
@@ -54,7 +55,6 @@
       <item value="GRANTED" />
       <item value="OOM Config" />
       <item value="note:after enableDebug,enableSaveFile always true" />
-      <item value="init Internal" />
     </histories>
   </component>
   <component name="Cache">
