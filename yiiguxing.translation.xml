@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="595" />
     <option name="newTranslationDialogY" value="-738" />
     <histories>
+      <item value="Read a boolean value from the parcel at the current dataPosition()." />
       <item value="存储" />
       <item value="Called when a connection to the Service has been lost. This typically happens when the process hosting the service has crashed or been killed. This does &lt;em&gt;not&lt;em&gt; remove the ServiceConnection itself -- this binding to the service will remain active, and you will receive a call to {@link onServiceConnected} when the Service is next running. @param name The concrete component name of the service whose connection has been lost." />
       <item value="Constant to return from {@link onStartCommand}: if this service's process is killed while it is started (after returning from {@link onStartCommand}), then leave it in the started state but don't retain this delivered intent. Later the system will try to re-create the service. Because it is in the started state, it will guarantee to call {@link onStartCommand} after creating the new service instance; if there are not any pending start commands to be delivered to the service, it will be called with a null intent object, so you must take care to check for this. &lt;p&gt;This mode makes sense for things that will be explicitly started and stopped to run for arbitrary periods of time, such as a service performing background music playback." />
@@ -55,7 +56,6 @@
       <item value="Returns the number of callbacks in the broadcast, to be used with {@link getBroadcastItem} to determine the range of indices you can supply." />
       <item value="remote: select password from account_external_ids where external_id = &quot;username:qinzhan&quot; remote: Branch refs/heads/feature_changeDumpTime_TargetUser_threshold: remote: You need 'Push' rights with the 'Force Push' remote: flag set to delete references. remote: User: qinzhan remote: Please read the documentation and contact an administrator remote: if you feel the configuration is incorrect remote: remote: Processing changes: refs: 1 remote: Processing changes: refs: 1, done failed to push some refs to 'ssh://qinzhan@gerrit.client.weibo.cn:29419/Weibo-CMW/AndroidPhone/Support/Aqts'" />
       <item value="emote: select password from account_external_ids where external_id = &quot;username:qinzhan&quot; remote: Branch refs/heads/feature_changeDumpTime_TargetUser_threshold: remote: You need 'Push' rights with the 'Force Push' remote: flag set to delete references. remote: User: qinzhan remote: Please read the documentation and contact an administrator remote: if you feel the configuration is incorrect remote: remote: Processing changes: refs: 1 remote: Processing changes: refs: 1, done failed to push some refs to 'ssh://qinzhan@gerrit.client.weibo.cn:29419/Weibo-CMW/AndroidPhone/Support/Aqts'" />
-      <item value="修改版本dump次数和用户身份的检查条件以及触发阈值发生dump时的流程。" />
     </histories>
   </component>
   <component name="Cache">
