@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="364" />
     <histories>
+      <item value="Callback" />
       <item value="Call requires API level 29 (current min is 18): android.os.Parcel#readBoolean&#10;" />
       <item value="&#10;Call requires API level 29 (current min is 18): android.os.Parcel#readBoolean&#10;" />
       <item value="&#10;Call requires API level 29 (current min is 18): android.os.Parcel#readBoolean" />
@@ -55,7 +56,6 @@
       <item value="飞灰度" />
       <item value="grey scale" />
       <item value="Starts this service to perform action Foo with the given parameters. If the service is already performing a task this action will be queued." />
-      <item value="Prepare to start making calls to the currently registered callbacks. This creates a copy of the callback list, which you can retrieve items from using {@link getBroadcastItem}. Note that only one broadcast can be active at a time, so you must be sure to always call this from the same thread (usually by scheduling with {@link Handler}) or do your own synchronization. You must call {@link finishBroadcast} when done." />
     </histories>
   </component>
   <component name="Cache">
