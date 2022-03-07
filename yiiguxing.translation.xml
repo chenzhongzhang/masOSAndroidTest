@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="364" />
     <histories>
+      <item value="horizontal" />
       <item value="Callback" />
       <item value="Call requires API level 29 (current min is 18): android.os.Parcel#readBoolean&#10;" />
       <item value="&#10;Call requires API level 29 (current min is 18): android.os.Parcel#readBoolean&#10;" />
@@ -55,10 +56,9 @@
       <item value="非hi" />
       <item value="飞灰度" />
       <item value="grey scale" />
-      <item value="Starts this service to perform action Foo with the given parameters. If the service is already performing a task this action will be queued." />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646051232309" />
+    <option name="lastTrimTime" value="1646652684336" />
   </component>
 </application>
