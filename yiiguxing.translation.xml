@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="364" />
     <histories>
+      <item value="DIALOG STYLE TRANSPARENT" />
+      <item value="on Load Info Complete" />
+      <item value="REMIT" />
+      <item value="KEY AD SCHEME VERIFY REMIT" />
       <item value="The RecyclerView is not currently scrolling." />
       <item value="ppends all of the elements in the specified collection to the end of this list, in the order that they are returned by the specified collection's iterator (optional operation). The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (Note that this will occur if the specified collection is this list, and it's nonempty.)" />
       <item value="Notify any registered observers that the item reflected at &lt;code&gt;position&lt;code&gt; has been newly inserted. The item previously at &lt;code&gt;position&lt;code&gt; is now at position &lt;code&gt;position + 1&lt;code&gt;. &lt;p&gt;This is a structural change event. Representations of other existing items in the data set are still considered up to date and will not be rebound, though their positions may be altered.&lt;p&gt; @param position Position of the newly inserted item in the data set @see notifyItemRangeInserted(int, int)" />
@@ -52,10 +56,6 @@
       <item value="Add a new callback to the list. This callback will remain in the list until a corresponding call to {@link unregister} or its hosting process goes away. If the callback was already registered (determined by checking to see if the {@link IInterfaceasBinder callback.asBinder()} object is already in the list), then it will be left as-is. Registrations are not counted; a single call to {@link unregister} will remove a callback after any number calls to register it. @param callback The callback interface to be added to the list. Must not be null -- passing null here will cause a NullPointerException. Most services will want to check for null before calling this with an object given from a client, so that clients can't crash the service with bad data. @param cookie Optional additional data to be associated with this callback. @return Returns true if the callback was successfully added to the list. Returns false if it was not added, either because {@link kill} had previously been called or the callback's process has gone away." />
       <item value="Simple version of {@link RemoteCallbackListregister(E, Object)} that does not take a cookie object." />
       <item value="Takes care of the grunt work of maintaining a list of remote interfaces, typically for the use of performing callbacks from a {@link android.app.Service} to its clients. In particular, this: &lt;ul&gt; &lt;li&gt; Keeps track of a set of registered {@link IInterface} callbacks, taking care to identify them through their underlying unique {@link IBinder} (by calling {@link IInterfaceasBinder IInterface.asBinder()}. &lt;li&gt; Attaches a {@link IBinder.DeathRecipient IBinder.DeathRecipient} to each registered interface, so that it can be cleaned out of the list if its process goes away. &lt;li&gt; Performs locking of the underlying list of interfaces to deal with multithreaded incoming calls, and a thread-safe way to iterate over a snapshot of the list without holding its lock. &lt;ul&gt; &lt;p&gt;To use this class, simply create a single instance along with your service, and call its {@link register} and {@link unregister} methods as client register and unregister with your service. To call back on to the registered clients, use {@link beginBroadcast}, {@link getBroadcastItem}, and {@link finishBroadcast}. &lt;p&gt;If a registered callback's process goes away, this class will take care of automatically removing it from the list. If you want to do additional work in this situation, you can create a subclass that implements the {@link onCallbackDied} method." />
-      <item value="非灰度用户" />
-      <item value="非hui" />
-      <item value="非会滴" />
-      <item value="非" />
     </histories>
   </component>
   <component name="Cache">
