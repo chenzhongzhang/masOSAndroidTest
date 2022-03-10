@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="364" />
     <histories>
+      <item value="ACT CODE OPEN THIRDPARTY" />
+      <item value="FLAG ACTIVITY NEW TASK" />
       <item value="Ad Verify Params" />
       <item value="Ad Scheme Verify Params" />
       <item value="record Ad Jump Act Code" />
@@ -54,8 +56,6 @@
       <item value="This is the interface to be implemented for the class that is specified by the {@link android.R.styleableAndroidManifestApplication_zygotePreloadName android:zygotePreloadName} of the &amp;lt;application&amp;gt; tag. It is responsible for preloading application code and data, that will be shared by all isolated services that have the {@link android.R.styleableAndroidManifestService_useAppZygote android:useAppZygote} attribute of the &amp;lt;service&amp;gt; tag set to &lt;code&gt;true&lt;code&gt;. Note that implementations of this class must provide a default constructor with no arguments." />
       <item value="Quits the handler thread's looper. &lt;p&gt; Causes the handler thread's looper to terminate without processing any more messages in the message queue. &lt;p&gt;&lt;p&gt; Any attempt to post messages to the queue after the looper is asked to quit will fail. For example, the {@link HandlersendMessage(Message)} method will return false. &lt;p&gt;&lt;p class=&quot;note&quot;&gt; Using this method may be unsafe because some messages may not be delivered before the looper terminates. Consider using {@link quitSafely} instead to ensure that all pending work is completed in an orderly manner. &lt;p&gt; @return True if the looper looper has been asked to quit or false if the thread had not yet started running. @see quitSafely" />
       <item value="Remove a previously registered death notification. The recipient will no longer be called if this object dies. @return {@code true} if the &lt;var&gt;recipient&lt;var&gt; is successfully unlinked, assuring you that its {@link DeathRecipientbinderDied DeathRecipient.binderDied()} method will not be called; {@code false} if the target IBinder has already died, meaning the method has been (or soon will be) called. @throws java.util.NoSuchElementException if the given &lt;var&gt;recipient&lt;var&gt; has not been registered with the IBinder, and the IBinder is still alive. Note that if the &lt;var&gt;recipient&lt;var&gt; was never registered, but the IBinder has already died, then this exception will &lt;em&gt;not&lt;em&gt; be thrown, and you will receive a false return value instead." />
-      <item value="Interface for receiving a callback when the process hosting an IBinder has gone away." />
-      <item value="Register the recipient for a notification if this binder goes away. If this binder object unexpectedly goes away (typically because its hosting process has been killed), then the given {@link DeathRecipient}'s {@link DeathRecipientbinderDied DeathRecipient.binderDied()} method will be called. &lt;p&gt;You will only receive death notifications for remote binders, as local binders by definition can't die without you dying as well. @throws RemoteException if the target IBinder's process has already died." />
     </histories>
   </component>
   <component name="Cache">
