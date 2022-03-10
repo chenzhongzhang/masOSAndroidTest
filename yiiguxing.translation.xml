@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="364" />
     <histories>
+      <item value="record Ad Click Action Log" />
       <item value="do Download App Action" />
       <item value="record Ad Jump Act Code" />
       <item value="record Open App Act Log" />
@@ -16,7 +17,6 @@
       <item value="Ad Verify Params" />
       <item value="Ad Scheme Verify Params" />
       <item value="is Show Imp Failed Reason Enable" />
-      <item value="record Ad Click Action Log" />
       <item value="is Do Verify Scheme Task Running" />
       <item value="handle Title Bar Event" />
       <item value="Do Verify Scheme Task" />
