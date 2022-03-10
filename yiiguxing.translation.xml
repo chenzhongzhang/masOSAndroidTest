@@ -6,9 +6,10 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="364" />
     <histories>
-      <item value="record Ad Click Action Log" />
-      <item value="do Download App Action" />
       <item value="record Ad Jump Act Code" />
+      <item value="record Ad Click Action Log" />
+      <item value="open Scheme Or Url" />
+      <item value="do Download App Action" />
       <item value="record Open App Act Log" />
       <item value="record Act Code Log" />
       <item value="eturns a &quot;good&quot; intent to launch a front-door activity in a package. This is used, for example, to implement an &quot;open&quot; button when browsing through packages. The current implementation looks first for a main activity in the category {@link IntentCATEGORY_INFO}, and next for a main activity in the category {@link IntentCATEGORY_LAUNCHER}. Returns &lt;code&gt;null&lt;code&gt; if neither are found. @param packageName The name of the package to inspect. @return A fully-qualified {@link Intent} that can be used to launch the main activity in the package. Returns &lt;code&gt;null&lt;code&gt; if the package does not contain such an activity, or if &lt;em&gt;packageName&lt;em&gt; is not recognized." />
@@ -55,7 +56,6 @@
       <item value="store" />
       <item value="We can assume mPtr != 0 because mQuitting was previously false." />
       <item value="last dump retry times" />
-      <item value="Quits the handler thread's looper. &lt;p&gt; Causes the handler thread's looper to terminate without processing any more messages in the message queue. &lt;p&gt;&lt;p&gt; Any attempt to post messages to the queue after the looper is asked to quit will fail. For example, the {@link HandlersendMessage(Message)} method will return false. &lt;p&gt;&lt;p class=&quot;note&quot;&gt; Using this method may be unsafe because some messages may not be delivered before the looper terminates. Consider using {@link quitSafely} instead to ensure that all pending work is completed in an orderly manner. &lt;p&gt; @return True if the looper looper has been asked to quit or false if the thread had not yet started running." />
     </histories>
   </component>
   <component name="Cache">
