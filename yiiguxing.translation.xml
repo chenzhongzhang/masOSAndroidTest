@@ -6,8 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="364" />
     <histories>
-      <item value="record Apps Download Button Act Log" />
       <item value="record Open App Act Log" />
+      <item value="record Apps Download Button Act Log" />
       <item value="record Ad Jump Act Code" />
       <item value="record Ad Click Action Log" />
       <item value="open Scheme Or Url" />
