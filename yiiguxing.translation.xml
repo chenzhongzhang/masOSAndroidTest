@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="364" />
     <histories>
+      <item value="Ad Scheme Verify Params" />
       <item value="用于start Activity For Result的request Code" />
       <item value="Open common scheme supported by other application" />
       <item value="MANUFACTURER" />
@@ -22,7 +23,6 @@
       <item value="ACT CODE OPEN THIRDPARTY" />
       <item value="FLAG ACTIVITY NEW TASK" />
       <item value="Ad Verify Params" />
-      <item value="Ad Scheme Verify Params" />
       <item value="is Show Imp Failed Reason Enable" />
       <item value="is Do Verify Scheme Task Running" />
       <item value="handle Title Bar Event" />
