@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="364" />
     <histories>
+      <item value="do Download App Action" />
       <item value="record Ad Jump Act Code" />
       <item value="record Open App Act Log" />
       <item value="record Act Code Log" />
@@ -55,7 +56,6 @@
       <item value="We can assume mPtr != 0 because mQuitting was previously false." />
       <item value="last dump retry times" />
       <item value="Quits the handler thread's looper. &lt;p&gt; Causes the handler thread's looper to terminate without processing any more messages in the message queue. &lt;p&gt;&lt;p&gt; Any attempt to post messages to the queue after the looper is asked to quit will fail. For example, the {@link HandlersendMessage(Message)} method will return false. &lt;p&gt;&lt;p class=&quot;note&quot;&gt; Using this method may be unsafe because some messages may not be delivered before the looper terminates. Consider using {@link quitSafely} instead to ensure that all pending work is completed in an orderly manner. &lt;p&gt; @return True if the looper looper has been asked to quit or false if the thread had not yet started running." />
-      <item value="This method is called once every time the Application Zygote is started. It is normally started the first time an isolated service that uses it is started. The Application Zygote will be stopped when all isolated services that use it are stopped. @param appInfo The ApplicationInfo object belonging to the application" />
     </histories>
   </component>
   <component name="Cache">
