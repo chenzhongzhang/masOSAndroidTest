@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="308" />
     <histories>
+      <item value="&#10;Packages to install: &#10;- Layout Inspector image server for API 29-30 (skiaparser;1)&#10;&#10;Preparing &quot;Install Layout Inspector image server for API 29-30 (revision: 6)&quot;.&#10;Downloading https://dl.google.com/android/repository/skiaparser-7083912-mac.zip&#10;&quot;Install Layout Inspector image server for API 29-30 (revision: 6)&quot; ready.&#10;Installing Layout Inspector image server for API 29-30 in /Users/qinzhan/Library/Android/sdk/skiaparser/1&#10;&quot;Install Layout Inspector image server for API 29-30 (revision: 6)&quot; complete.&#10;&quot;Install Layout Inspector image server for API 29-30 (revision: 6)&quot; finished." />
       <item value="手势" />
       <item value="shou'shi" />
       <item value="Over Range" />
@@ -55,7 +56,6 @@
       <item value="&#10;Call requires API level 29 (current min is 18): android.os.Parcel#readBoolean&#10;" />
       <item value="&#10;Call requires API level 29 (current min is 18): android.os.Parcel#readBoolean" />
       <item value="Read a boolean value from the parcel at the current dataPosition()." />
-      <item value="存储" />
     </histories>
   </component>
   <component name="Cache">
