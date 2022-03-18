@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="202" />
     <histories>
+      <item value="Guide Action" />
       <item value="当视频播放完毕时，停止轮询" />
       <item value="当视频播放完毕时，停止" />
       <item value="当视频播放完毕时，y" />
@@ -55,7 +56,6 @@
       <item value="eturns a &quot;good&quot; intent to launch a front-door activity in a package. This is used, for example, to implement an &quot;open&quot; button when browsing through packages. The current implementation looks first for a main activity in the category {@link IntentCATEGORY_INFO}, and next for a main activity in the category {@link IntentCATEGORY_LAUNCHER}. Returns &lt;code&gt;null&lt;code&gt; if neither are found. @param packageName The name of the package to inspect. @return A fully-qualified {@link Intent} that can be used to launch the main activity in the package. Returns &lt;code&gt;null&lt;code&gt; if the package does not contain such an activity, or if &lt;em&gt;packageName&lt;em&gt; is not recognized." />
       <item value="ACT CODE OPEN THIRDPARTY" />
       <item value="FLAG ACTIVITY NEW TASK" />
-      <item value="Ad Verify Params" />
     </histories>
   </component>
   <component name="Cache">
