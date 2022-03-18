@@ -4,8 +4,17 @@
     <option name="newTranslationDialogHeight" value="372" />
     <option name="newTranslationDialogWidth" value="643" />
     <option name="newTranslationDialogX" value="566" />
-    <option name="newTranslationDialogY" value="308" />
+    <option name="newTranslationDialogY" value="202" />
     <histories>
+      <item value="轮询进度" />
+      <item value="轮询" />
+      <item value="轮询jin'du" />
+      <item value="poll" />
+      <item value="lun'xun" />
+      <item value="循环" />
+      <item value="xun'h" />
+      <item value="Interaction" />
+      <item value="Disposable" />
       <item value="on Bind Source" />
       <item value="Interaction Ad Info" />
       <item value="clear Just Show If Over Range" />
@@ -47,15 +56,6 @@
       <item value="&lt;p&gt;&lt;strong&gt;Warning:&lt;strong&gt; Prior to Jelly Bean, this decoded the '+' character as '+' rather than ' '. @param key which will be encoded @throws UnsupportedOperationException if this isn't a hierarchical URI @throws NullPointerException if key is null @return the decoded value or null if no parameter is found" />
       <item value="Searches the query string for the first value with the given key." />
       <item value="ad Scheme Verify Remit" />
-      <item value="adextparams" />
-      <item value="m Is Direct Open Ad Scheme" />
-      <item value="DIALOG STYLE TRANSPARENT" />
-      <item value="on Load Info Complete" />
-      <item value="REMIT" />
-      <item value="KEY AD SCHEME VERIFY REMIT" />
-      <item value="The RecyclerView is not currently scrolling." />
-      <item value="ppends all of the elements in the specified collection to the end of this list, in the order that they are returned by the specified collection's iterator (optional operation). The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (Note that this will occur if the specified collection is this list, and it's nonempty.)" />
-      <item value="Notify any registered observers that the item reflected at &lt;code&gt;position&lt;code&gt; has been newly inserted. The item previously at &lt;code&gt;position&lt;code&gt; is now at position &lt;code&gt;position + 1&lt;code&gt;. &lt;p&gt;This is a structural change event. Representations of other existing items in the data set are still considered up to date and will not be rebound, though their positions may be altered.&lt;p&gt; @param position Position of the newly inserted item in the data set @see notifyItemRangeInserted(int, int)" />
     </histories>
   </component>
   <component name="Cache">
