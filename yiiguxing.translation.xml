@@ -6,6 +6,17 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="202" />
     <histories>
+      <item value="当视频播放完毕时，停止轮询" />
+      <item value="当视频播放完毕时，停止" />
+      <item value="当视频播放完毕时，y" />
+      <item value="当视频播放完毕时，" />
+      <item value="当视频播放完毕时" />
+      <item value="当视频播放完毕" />
+      <item value="视频播放完毕" />
+      <item value="视频播放" />
+      <item value="视频b" />
+      <item value="视频" />
+      <item value="视频波发个" />
       <item value="轮询进度" />
       <item value="轮询" />
       <item value="轮询jin'du" />
@@ -45,17 +56,6 @@
       <item value="ACT CODE OPEN THIRDPARTY" />
       <item value="FLAG ACTIVITY NEW TASK" />
       <item value="Ad Verify Params" />
-      <item value="is Show Imp Failed Reason Enable" />
-      <item value="is Do Verify Scheme Task Running" />
-      <item value="handle Title Bar Event" />
-      <item value="Do Verify Scheme Task" />
-      <item value="Remit" />
-      <item value="Ad Scheme Verify Result" />
-      <item value="Concurrent Manager" />
-      <item value="Do Verify Scheme Task Running" />
-      <item value="&lt;p&gt;&lt;strong&gt;Warning:&lt;strong&gt; Prior to Jelly Bean, this decoded the '+' character as '+' rather than ' '. @param key which will be encoded @throws UnsupportedOperationException if this isn't a hierarchical URI @throws NullPointerException if key is null @return the decoded value or null if no parameter is found" />
-      <item value="Searches the query string for the first value with the given key." />
-      <item value="ad Scheme Verify Remit" />
     </histories>
   </component>
   <component name="Cache">
