@@ -4,8 +4,9 @@
     <option name="newTranslationDialogHeight" value="372" />
     <option name="newTranslationDialogWidth" value="643" />
     <option name="newTranslationDialogX" value="566" />
-    <option name="newTranslationDialogY" value="202" />
+    <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="gap" />
       <item value="Wax Open App" />
       <item value="轮询" />
       <item value="Pull Pause Live Url Opt" />
@@ -55,7 +56,6 @@
       <item value="The manufacturer of the producthardware" />
       <item value="he manufacturer of the producthardware" />
       <item value="record Open App Act Log" />
-      <item value="record Apps Download Button Act Log" />
     </histories>
   </component>
   <component name="Cache">
