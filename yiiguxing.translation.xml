@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="Foldable" />
       <item value="authority" />
       <item value="@param intent The desired intent as per resolveActivity(). @param flags Additional option flags to modify the data returned. The most important is {@link MATCH_DEFAULT_ONLY}, to limit the resolution to only those activities that support the {@link android.content.IntentCATEGORY_DEFAULT}. Or, set {@link MATCH_ALL} to prevent any filtering of the results." />
       <item value="Retrieve all activities that can be performed for the given intent." />
@@ -55,7 +56,6 @@
       <item value="Ad Scheme Verify Params" />
       <item value="用于start Activity For Result的request Code" />
       <item value="Open common scheme supported by other application" />
-      <item value="MANUFACTURER" />
     </histories>
   </component>
   <component name="Cache">
