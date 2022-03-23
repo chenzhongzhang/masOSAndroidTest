@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="is Share To Scheme" />
       <item value="open Button Scheme" />
       <item value="Foldable" />
       <item value="authority" />
@@ -55,7 +56,6 @@
       <item value="Trends" />
       <item value="Trends White List" />
       <item value="Ad Scheme Verify Params" />
-      <item value="用于start Activity For Result的request Code" />
     </histories>
   </component>
   <component name="Cache">
