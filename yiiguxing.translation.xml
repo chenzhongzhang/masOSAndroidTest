@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="Router" />
       <item value="Shield" />
       <item value="launch Shield App" />
       <item value="yttrium" />
@@ -55,7 +56,6 @@
       <item value="is Red Man Specific" />
       <item value="get Interaction Ad Info" />
       <item value="(0, mPlayAction.display_duration, 0, 1, TimeUnit.SEC" />
-      <item value="&#10;Packages to install: &#10;- Layout Inspector image server for API 29-30 (skiaparser;1)&#10;&#10;Preparing &quot;Install Layout Inspector image server for API 29-30 (revision: 6)&quot;.&#10;Downloading https://dl.google.com/android/repository/skiaparser-7083912-mac.zip&#10;&quot;Install Layout Inspector image server for API 29-30 (revision: 6)&quot; ready.&#10;Installing Layout Inspector image server for API 29-30 in /Users/qinzhan/Library/Android/sdk/skiaparser/1&#10;&quot;Install Layout Inspector image server for API 29-30 (revision: 6)&quot; complete.&#10;&quot;Install Layout Inspector image server for API 29-30 (revision: 6)&quot; finished." />
     </histories>
   </component>
   <component name="Cache">
