@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="incompatibilities" />
+      <item value="World Wide Web Consortium Recommendation&lt;a&gt; states that UTF-8 should be used. Not doing so may introduce" />
+      <item value="Translates a string into {@code applicationx-www-form-urlencoded} format using a specific encoding scheme. This method uses the supplied encoding scheme to obtain the bytes for unsafe characters." />
       <item value="Returns true if this URI is hierarchical like &quot;http:google.com&quot;. Absolute URIs are hierarchical if the scheme-specific part starts with a ''. Relative URIs are always hierarchical." />
       <item value="key ad Scheme Verify Remit" />
       <item value="open Url With Filter" />
@@ -53,9 +56,6 @@
       <item value="循环" />
       <item value="xun'h" />
       <item value="Interaction" />
-      <item value="Disposable" />
-      <item value="on Bind Source" />
-      <item value="Interaction Ad Info" />
     </histories>
   </component>
   <component name="Cache">
