@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="check if scheme supported by other application" />
       <item value="Router" />
       <item value="Shield" />
       <item value="launch Shield App" />
@@ -55,7 +56,6 @@
       <item value="suspend" />
       <item value="is Red Man Specific" />
       <item value="get Interaction Ad Info" />
-      <item value="(0, mPlayAction.display_duration, 0, 1, TimeUnit.SEC" />
     </histories>
   </component>
   <component name="Cache">
