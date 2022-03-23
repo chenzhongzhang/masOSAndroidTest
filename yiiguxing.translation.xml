@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="open Url With Filter" />
+      <item value="Filter" />
       <item value="check if scheme supported by other application" />
       <item value="Router" />
       <item value="Shield" />
@@ -54,8 +56,6 @@
       <item value="Interaction Ad Info" />
       <item value="clear Just Show If Over Range" />
       <item value="suspend" />
-      <item value="is Red Man Specific" />
-      <item value="get Interaction Ad Info" />
     </histories>
   </component>
   <component name="Cache">
