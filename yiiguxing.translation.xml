@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="Trends White List" />
       <item value="incompatibilities" />
       <item value="World Wide Web Consortium Recommendation&lt;a&gt; states that UTF-8 should be used. Not doing so may introduce" />
       <item value="Translates a string into {@code applicationx-www-form-urlencoded} format using a specific encoding scheme. This method uses the supplied encoding scheme to obtain the bytes for unsafe characters." />
@@ -55,7 +56,6 @@
       <item value="lun'xun" />
       <item value="循环" />
       <item value="xun'h" />
-      <item value="Interaction" />
     </histories>
   </component>
   <component name="Cache">
