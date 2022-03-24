@@ -27,6 +27,7 @@
         <entry key="app/src/main/res/layout/item_recycler.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/recycler_load_more_layout.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/recyclerview_item.xml" value="0.29375" />
+        <entry key="appmarket/res/layout/market_vw_appinfo_content_listview.xml" value="0.1" />
         <entry key="client/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="demo/src/main/res/layout/activity_crash.xml" value="0.3333333333333333" />
         <entry key="demo/src/main/res/layout/activity_leak_empty.xml" value="0.125" />
