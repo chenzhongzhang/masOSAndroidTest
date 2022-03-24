@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="legal" />
+      <item value="slegal Scheme" />
       <item value="intercept Click" />
       <item value="Coupon" />
       <item value="open Button Scheme" />
@@ -54,8 +56,6 @@
       <item value="手势广告延迟出现" />
       <item value="sho" />
       <item value="MEDIA INFO VIDEO RENDERING START" />
-      <item value="Interaction Ad Util" />
-      <item value="Guide Action" />
     </histories>
   </component>
   <component name="Cache">
