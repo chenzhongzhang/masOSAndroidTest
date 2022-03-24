@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="Coupon" />
       <item value="open Button Scheme" />
       <item value="Sheet" />
       <item value="show With Sheet View" />
@@ -55,7 +56,6 @@
       <item value="Interaction Ad Util" />
       <item value="Guide Action" />
       <item value="当视频播放完毕时，停止轮询" />
-      <item value="当视频播放完毕时，停止" />
     </histories>
   </component>
   <component name="Cache">
