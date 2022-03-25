@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="close Delay Str" />
+      <item value="transfer Scheme With Ad Strategy" />
       <item value="Assigned" />
       <item value="is Assigned Scheme" />
       <item value="legal" />
@@ -42,7 +44,6 @@
       <item value="launch Shield App" />
       <item value="yttrium" />
       <item value="launch App By Scheme" />
-      <item value="transfer Scheme With Ad Strategy" />
       <item value="launch" />
       <item value="is Share To Scheme" />
       <item value="Foldable" />
@@ -55,7 +56,6 @@
       <item value="Pull Pause Live Url Opt" />
       <item value="is Pull Pause Live Url Opt Enable" />
       <item value="手势广告" />
-      <item value="手势广告延迟出现" />
     </histories>
   </component>
   <component name="Cache">
