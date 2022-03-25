@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="Assigned" />
+      <item value="is Assigned Scheme" />
       <item value="legal" />
       <item value="slegal Scheme" />
       <item value="intercept Click" />
@@ -54,8 +56,6 @@
       <item value="is Pull Pause Live Url Opt Enable" />
       <item value="手势广告" />
       <item value="手势广告延迟出现" />
-      <item value="sho" />
-      <item value="MEDIA INFO VIDEO RENDERING START" />
     </histories>
   </component>
   <component name="Cache">
