@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="bottom Sheet Layout" />
+      <item value="show With Sheet View" />
+      <item value="Popup" />
+      <item value="Popup Dialog" />
       <item value="close Delay Str" />
       <item value="transfer Scheme With Ad Strategy" />
       <item value="Assigned" />
@@ -16,12 +20,10 @@
       <item value="Coupon" />
       <item value="open Button Scheme" />
       <item value="Sheet" />
-      <item value="show With Sheet View" />
       <item value="init Skin" />
       <item value="Returns the value mapped by {@code name} if it exists, coercing it if necessary, or the empty string if no such mapping exists." />
       <item value="is Reach Card List Top" />
       <item value="is Do Open App Info Task Running" />
-      <item value="bottom Sheet Layout" />
       <item value="m App Info View" />
       <item value="m Pg Dialog" />
       <item value="m Extra Params" />
@@ -54,8 +56,6 @@
       <item value="Wax Open App" />
       <item value="轮询" />
       <item value="Pull Pause Live Url Opt" />
-      <item value="is Pull Pause Live Url Opt Enable" />
-      <item value="手势广告" />
     </histories>
   </component>
   <component name="Cache">
