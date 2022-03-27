@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="Show the view or text notification for a short period of time. This time could be user-definable. This is the default." />
       <item value="Task" />
       <item value="bottom Sheet Layout" />
       <item value="show With Sheet View" />
@@ -55,10 +56,9 @@
       <item value="Retrieve all activities that can be performed for the given intent." />
       <item value="gap" />
       <item value="Wax Open App" />
-      <item value="轮询" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647831246641" />
+    <option name="lastTrimTime" value="1648407193070" />
   </component>
 </application>
