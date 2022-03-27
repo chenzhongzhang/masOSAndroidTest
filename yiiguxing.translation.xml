@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="is Need New Task Flag" />
+      <item value="check if scheme supported by other application" />
       <item value="Show the view or text notification for a short period of time. This time could be user-definable. This is the default." />
       <item value="Task" />
       <item value="bottom Sheet Layout" />
@@ -42,7 +44,6 @@
       <item value="key ad Scheme Verify Remit" />
       <item value="open Url With Filter" />
       <item value="Filter" />
-      <item value="check if scheme supported by other application" />
       <item value="Router" />
       <item value="Shield" />
       <item value="launch Shield App" />
@@ -55,7 +56,6 @@
       <item value="@param intent The desired intent as per resolveActivity(). @param flags Additional option flags to modify the data returned. The most important is {@link MATCH_DEFAULT_ONLY}, to limit the resolution to only those activities that support the {@link android.content.IntentCATEGORY_DEFAULT}. Or, set {@link MATCH_ALL} to prevent any filtering of the results." />
       <item value="Retrieve all activities that can be performed for the given intent." />
       <item value="gap" />
-      <item value="Wax Open App" />
     </histories>
   </component>
   <component name="Cache">
