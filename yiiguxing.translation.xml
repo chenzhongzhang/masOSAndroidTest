@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="deal Click" />
       <item value="JSON document was not fully consumed" />
       <item value="Expected" />
       <item value="头像" />
@@ -55,12 +56,11 @@
       <item value="launch" />
       <item value="is Share To Scheme" />
       <item value="Foldable" />
-      <item value="authority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
