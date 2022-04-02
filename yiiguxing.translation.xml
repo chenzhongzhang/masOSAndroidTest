@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="TYPE SCHEME LINK" />
+      <item value="TYPE NONE EVENT" />
       <item value="ADEXTPARAMS" />
       <item value="deal Click" />
       <item value="JSON document was not fully consumed" />
@@ -54,17 +56,15 @@
       <item value="launch Shield App" />
       <item value="yttrium" />
       <item value="launch App By Scheme" />
-      <item value="launch" />
-      <item value="is Share To Scheme" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648407193070" />
+    <option name="lastTrimTime" value="1648868054238" />
   </component>
 </application>
