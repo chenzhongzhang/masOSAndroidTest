@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="Check flowId returned by server" />
       <item value="on Web View Page Finished" />
       <item value="TYPE SCHEME LINK" />
       <item value="TYPE NONE EVENT" />
@@ -55,12 +56,11 @@
       <item value="Router" />
       <item value="Shield" />
       <item value="launch Shield App" />
-      <item value="yttrium" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
