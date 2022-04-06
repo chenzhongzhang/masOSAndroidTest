@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="on Web View Page Finished" />
       <item value="TYPE SCHEME LINK" />
       <item value="TYPE NONE EVENT" />
       <item value="ADEXTPARAMS" />
@@ -55,12 +56,11 @@
       <item value="Shield" />
       <item value="launch Shield App" />
       <item value="yttrium" />
-      <item value="launch App By Scheme" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
