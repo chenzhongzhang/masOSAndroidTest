@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="STATUS CONFIRMING" />
+      <item value="STATUS PAUSED" />
       <item value="popup Dialog" />
       <item value="show Progress" />
       <item value="Set a listener to be invoked when the dialog is dismissed.&#10;Params:&#10;listener – The DialogInterface.OnDismissListener to use." />
@@ -54,13 +56,11 @@
       <item value="Translates a string into {@code applicationx-www-form-urlencoded} format using a specific encoding scheme. This method uses the supplied encoding scheme to obtain the bytes for unsafe characters." />
       <item value="Returns true if this URI is hierarchical like &quot;http:google.com&quot;. Absolute URIs are hierarchical if the scheme-specific part starts with a ''. Relative URIs are always hierarchical." />
       <item value="key ad Scheme Verify Remit" />
-      <item value="open Url With Filter" />
-      <item value="Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
