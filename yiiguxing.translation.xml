@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="If set, the recipient of this Intent will be granted permission to perform read operations on the URI in the Intent's data and any URIs specified in its ClipData. When applying to an Intent's ClipData, all URIs as well as recursive traversals through data or other ClipData in Intent items will be granted; only the grant flags of the top-level Intent are used." />
       <item value="is Incentive" />
       <item value="update Statusfile Not Exists" />
       <item value="open Url With Parms" />
@@ -55,11 +56,10 @@
       <item value="m App Info View" />
       <item value="m Pg Dialog" />
       <item value="m Extra Params" />
-      <item value="m Btn Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
+        <entry key="CHINESE" value="34" />
         <entry key="ENGLISH" value="34" />
       </map>
     </option>
