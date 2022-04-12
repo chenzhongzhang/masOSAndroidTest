@@ -6,8 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
-      <item value="update Statusfile Not Exists" />
       <item value="is Incentive" />
+      <item value="update Statusfile Not Exists" />
       <item value="open Url With Parms" />
       <item value="Net Engine Factory" />
       <item value="do Request Lingdong" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
