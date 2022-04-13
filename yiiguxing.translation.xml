@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="去中间页" />
       <item value="Open common scheme supported by other application" />
       <item value="check if scheme supported by other application" />
       <item value="短链" />
@@ -55,12 +56,11 @@
       <item value="Sheet" />
       <item value="init Skin" />
       <item value="Returns the value mapped by {@code name} if it exists, coercing it if necessary, or the empty string if no such mapping exists." />
-      <item value="is Reach Card List Top" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
