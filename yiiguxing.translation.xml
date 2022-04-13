@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="Open common scheme supported by other application" />
+      <item value="check if scheme supported by other application" />
       <item value="短链" />
       <item value="scene" />
       <item value="register Check Installed Timer" />
@@ -35,7 +37,6 @@
       <item value="Expected" />
       <item value="头像" />
       <item value="is Need New Task Flag" />
-      <item value="check if scheme supported by other application" />
       <item value="Show the view or text notification for a short period of time. This time could be user-definable. This is the default." />
       <item value="Task" />
       <item value="bottom Sheet Layout" />
@@ -55,12 +56,11 @@
       <item value="init Skin" />
       <item value="Returns the value mapped by {@code name} if it exists, coercing it if necessary, or the empty string if no such mapping exists." />
       <item value="is Reach Card List Top" />
-      <item value="is Do Open App Info Task Running" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
