@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="custom app desc" />
       <item value="set On Click Show Menu Listener" />
       <item value="set Current Player View" />
       <item value="enter Scene" />
@@ -55,12 +56,11 @@
       <item value="is Assigned Scheme" />
       <item value="legal" />
       <item value="slegal Scheme" />
-      <item value="intercept Click" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
       </map>
     </option>
   </component>
