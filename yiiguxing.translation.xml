@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="第三方监测" />
+      <item value="第三方jian'ce" />
+      <item value="第三方jian" />
+      <item value="第三方监控" />
+      <item value="第三方" />
+      <item value="第三方检测" />
       <item value="adextparams" />
       <item value="key adextparams ad id" />
       <item value="custom app desc" />
@@ -50,21 +56,15 @@
       <item value="Task" />
       <item value="bottom Sheet Layout" />
       <item value="show With Sheet View" />
-      <item value="Popup" />
-      <item value="Popup Dialog" />
-      <item value="close Delay Str" />
-      <item value="transfer Scheme With Ad Strategy" />
-      <item value="Assigned" />
-      <item value="is Assigned Scheme" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650250704403" />
+    <option name="lastTrimTime" value="1650891501743" />
   </component>
 </application>
