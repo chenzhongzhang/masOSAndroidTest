@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="m Event Delegate" />
+      <item value="Json Comment Update Event" />
+      <item value="Concurrent Manager" />
       <item value="Track" />
       <item value="差值" />
       <item value="DIANXIN" />
@@ -53,14 +56,11 @@
       <item value="TYPE NONE EVENT" />
       <item value="ADEXTPARAMS" />
       <item value="deal Click" />
-      <item value="JSON document was not fully consumed" />
-      <item value="Expected" />
-      <item value="头像" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
       </map>
     </option>
   </component>
