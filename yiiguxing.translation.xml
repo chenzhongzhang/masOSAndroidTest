@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="178" />
     <histories>
+      <item value="取消" />
+      <item value="Comments Ad Click Like Track" />
       <item value="click Comment" />
       <item value="click Forward" />
       <item value="iv report bomb" />
@@ -54,13 +56,11 @@
       <item value="STATUS PAUSED" />
       <item value="popup Dialog" />
       <item value="show Progress" />
-      <item value="Set a listener to be invoked when the dialog is dismissed.&#10;Params:&#10;listener – The DialogInterface.OnDismissListener to use." />
-      <item value="Check flowId returned by server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
       </map>
     </option>
   </component>
