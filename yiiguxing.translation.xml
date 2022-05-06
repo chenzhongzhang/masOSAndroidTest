@@ -4,8 +4,10 @@
     <option name="newTranslationDialogHeight" value="388" />
     <option name="newTranslationDialogWidth" value="643" />
     <option name="newTranslationDialogX" value="566" />
-    <option name="newTranslationDialogY" value="178" />
+    <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="横" />
+      <item value="heng" />
       <item value="play Completion Actions" />
       <item value="Play Completion Action" />
       <item value="取消" />
@@ -54,13 +56,11 @@
       <item value="do Copy" />
       <item value="ProgressView activate called but in disable" />
       <item value="Direct Download App" />
-      <item value="STATUS CONFIRMING" />
-      <item value="STATUS PAUSED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
       </map>
     </option>
   </component>
