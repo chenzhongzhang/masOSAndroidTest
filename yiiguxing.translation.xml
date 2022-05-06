@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="Hint Displayer" />
       <item value="横" />
       <item value="heng" />
       <item value="play Completion Actions" />
@@ -55,12 +56,12 @@
       <item value="pause Download App" />
       <item value="do Copy" />
       <item value="ProgressView activate called but in disable" />
-      <item value="Direct Download App" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
+        <entry key="CHINESE" value="119" />
         <entry key="ENGLISH" value="119" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
