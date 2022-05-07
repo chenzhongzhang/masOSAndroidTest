@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="Buffer Overflow Exception" />
+      <item value="Cause: java.nio.BufferOverflowException" />
       <item value="多场景" />
       <item value="Hint Displayer" />
       <item value="横" />
@@ -54,13 +56,11 @@
       <item value="Net Engine Factory" />
       <item value="do Request Lingdong" />
       <item value="Incentive App" />
-      <item value="pause Download App" />
-      <item value="do Copy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
