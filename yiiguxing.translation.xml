@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="lr confirmclose" />
+      <item value="lr unclose duration" />
+      <item value="lr appearclose duration" />
+      <item value="lr delayclose duration" />
       <item value="Verify Remit" />
       <item value="Popup Dialog" />
       <item value="Buffer Overflow Exception" />
@@ -52,20 +56,16 @@
       <item value="scene" />
       <item value="register Check Installed Timer" />
       <item value="If set, the recipient of this Intent will be granted permission to perform read operations on the URI in the Intent's data and any URIs specified in its ClipData. When applying to an Intent's ClipData, all URIs as well as recursive traversals through data or other ClipData in Intent items will be granted; only the grant flags of the top-level Intent are used." />
-      <item value="is Incentive" />
-      <item value="update Statusfile Not Exists" />
-      <item value="open Url With Parms" />
-      <item value="Net Engine Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="139" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651739373502" />
+    <option name="lastTrimTime" value="1652324530747" />
   </component>
 </application>
