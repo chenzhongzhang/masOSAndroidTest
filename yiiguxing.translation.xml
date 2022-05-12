@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="if scheme supported by other application" />
       <item value="lr confirmclose" />
       <item value="lr unclose duration" />
       <item value="lr appearclose duration" />
@@ -55,12 +56,11 @@
       <item value="短链" />
       <item value="scene" />
       <item value="register Check Installed Timer" />
-      <item value="If set, the recipient of this Intent will be granted permission to perform read operations on the URI in the Intent's data and any URIs specified in its ClipData. When applying to an Intent's ClipData, all URIs as well as recursive traversals through data or other ClipData in Intent items will be granted; only the grant flags of the top-level Intent are used." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
