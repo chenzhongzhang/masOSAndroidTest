@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="open Url With Filter" />
+      <item value="is Need Check Promotion" />
       <item value="if scheme supported by other application" />
       <item value="lr confirmclose" />
       <item value="lr unclose duration" />
@@ -54,13 +56,11 @@
       <item value="Open common scheme supported by other application" />
       <item value="check if scheme supported by other application" />
       <item value="短链" />
-      <item value="scene" />
-      <item value="register Check Installed Timer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
