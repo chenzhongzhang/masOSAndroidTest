@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="蒙层" />
       <item value="allow Redirect" />
       <item value="黑暗模式" />
       <item value="hei" />
@@ -55,12 +56,11 @@
       <item value="set Current Player View" />
       <item value="enter Scene" />
       <item value="get Red Packet Manager" />
-      <item value="reset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
