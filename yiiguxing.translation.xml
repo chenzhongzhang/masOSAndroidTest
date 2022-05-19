@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="Screen Orientation Base Activity" />
       <item value="Set the view tree owners before setting the content view so that the inflation process and attach listeners will see them already present" />
       <item value="Dialog Bottom Sheet Layout" />
       <item value="bottomsheet" />
@@ -55,12 +56,11 @@
       <item value="adextparams" />
       <item value="key adextparams ad id" />
       <item value="custom app desc" />
-      <item value="set On Click Show Menu Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
