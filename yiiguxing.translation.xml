@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="handle Title Bar Event" />
+      <item value="Decoration" />
+      <item value="Biz Sticky Item Decoration" />
       <item value="encode" />
       <item value="Screen Orientation Base Activity" />
       <item value="Set the view tree owners before setting the content view so that the inflation process and attach listeners will see them already present" />
@@ -53,19 +56,16 @@
       <item value="第三方jian" />
       <item value="第三方监控" />
       <item value="第三方" />
-      <item value="第三方检测" />
-      <item value="adextparams" />
-      <item value="key adextparams ad id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652757343097" />
+    <option name="lastTrimTime" value="1653382318824" />
   </component>
 </application>
