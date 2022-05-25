@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="Strategy" />
       <item value="Rects" />
       <item value="handle Title Bar Event" />
       <item value="Decoration" />
@@ -55,12 +56,11 @@
       <item value="第三方监测" />
       <item value="第三方jian'ce" />
       <item value="第三方jian" />
-      <item value="第三方监控" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
