@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="调试选项文本颜色" />
+      <item value="调试选项wen" />
+      <item value="调试选项" />
+      <item value=" /**&#10;     * 评论流广告点赞发送点击监测，取消赞不发送，正向开关&#10;     */&#10;    public static boolean isCommentsAdClickLikeTrackEnable() {&#10;        return FeedSdkUtils.AbManager.isFeatureEnabled(&quot;wb_ad_isCommentsAdClickLikeTrack_android_enable&quot;);&#10;    }" />
+      <item value="调试选项文字颜色" />
+      <item value="调试选项文字yan" />
       <item value="Strategy" />
       <item value="Rects" />
       <item value="handle Title Bar Event" />
@@ -50,17 +56,11 @@
       <item value="Concurrent Manager" />
       <item value="Track" />
       <item value="差值" />
-      <item value="DIANXIN" />
-      <item value="点击正文" />
-      <item value="正文" />
-      <item value="第三方监测" />
-      <item value="第三方jian'ce" />
-      <item value="第三方jian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
