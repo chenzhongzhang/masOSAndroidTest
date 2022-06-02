@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="Indicates that the task has not been executed yet." />
       <item value="ad Click Track" />
       <item value="广告调试选项颜色bug修复" />
       <item value="广告调试选项颜色" />
@@ -55,17 +56,16 @@
       <item value="iv report bomb" />
       <item value="iv report icon" />
       <item value="tv approval comment" />
-      <item value="m Event Delegate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653382318824" />
+    <option name="lastTrimTime" value="1654155023201" />
   </component>
 </application>
