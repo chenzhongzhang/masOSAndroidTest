@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="monitor Secs For Status" />
       <item value="Indicates that the task has not been executed yet." />
       <item value="ad Click Track" />
       <item value="广告调试选项颜色bug修复" />
@@ -55,12 +56,11 @@
       <item value="click Forward" />
       <item value="iv report bomb" />
       <item value="iv report icon" />
-      <item value="tv approval comment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
