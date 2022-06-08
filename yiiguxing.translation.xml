@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="The git repository at '/Users/qinzhan' has too many active changes, only a subset of Git features will be enabled." />
       <item value="下载进度按钮" />
       <item value="下载进度an" />
       <item value="下载进度" />
@@ -55,17 +56,16 @@
       <item value="Play Completion Action" />
       <item value="取消" />
       <item value="Comments Ad Click Like Track" />
-      <item value="click Comment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
+        <entry key="CHINESE" value="194" />
         <entry key="ENGLISH" value="194" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654155023201" />
+    <option name="lastTrimTime" value="1654683030255" />
   </component>
 </application>
