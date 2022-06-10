@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="Interaction" />
       <item value="render thread" />
       <item value="render t'h're" />
       <item value="render T" />
@@ -55,12 +56,11 @@
       <item value="Buffer Overflow Exception" />
       <item value="Cause: java.nio.BufferOverflowException" />
       <item value="多场景" />
-      <item value="Hint Displayer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
