@@ -6,6 +6,13 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="单元格" />
+      <item value="格子" />
+      <item value="ge'zi" />
+      <item value="单" />
+      <item value="单元" />
+      <item value="行" />
+      <item value="hang" />
       <item value="do Un Follow Action" />
       <item value="Interaction" />
       <item value="render thread" />
@@ -49,18 +56,11 @@
       <item value="is Need Check Promotion" />
       <item value="if scheme supported by other application" />
       <item value="lr confirmclose" />
-      <item value="lr unclose duration" />
-      <item value="lr appearclose duration" />
-      <item value="lr delayclose duration" />
-      <item value="Verify Remit" />
-      <item value="Popup Dialog" />
-      <item value="Buffer Overflow Exception" />
-      <item value="Cause: java.nio.BufferOverflowException" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
