@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/." />
       <item value="单元格" />
       <item value="格子" />
       <item value="ge'zi" />
@@ -55,17 +56,16 @@
       <item value="open Url With Filter" />
       <item value="is Need Check Promotion" />
       <item value="if scheme supported by other application" />
-      <item value="lr confirmclose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
+        <entry key="CHINESE" value="229" />
         <entry key="ENGLISH" value="229" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654683030255" />
+    <option name="lastTrimTime" value="1655275212228" />
   </component>
 </application>
