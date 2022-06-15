@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="Interaction" />
       <item value="Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/." />
       <item value="单元格" />
       <item value="格子" />
@@ -15,7 +16,6 @@
       <item value="行" />
       <item value="hang" />
       <item value="do Un Follow Action" />
-      <item value="Interaction" />
       <item value="render thread" />
       <item value="render t'h're" />
       <item value="render T" />
@@ -60,7 +60,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
