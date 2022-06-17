@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="widget" />
+      <item value="widget:Center" />
       <item value="Xcode installation is incomplete; a full installation is necessary for iOS&#10;      development.&#10;      Download at: https://developer.apple.com/xcode/download/&#10;      Or install Xcode via the App Store.&#10;      Once installed, run:&#10;        sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer&#10;        sudo xcodebuild -runFirstLaunch&#10;" />
       <item value="Unauthorized" />
       <item value="invalid" />
@@ -54,12 +56,10 @@
       <item value="蒙层" />
       <item value="allow Redirect" />
       <item value="黑暗模式" />
-      <item value="hei" />
-      <item value="RenderMode, which paints a Flutter UI to a android.graphics.SurfaceTexture. This mode is not as performant as surface, but a Flutter UI in this mode can be animated and transformed, as well as positioned in the z-index between 2+ other Android Views. Unless the special capabilities of a android.graphics.SurfaceTexture are required, developers should strongly prefer the surface render mode." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
+        <entry key="CHINESE" value="239" />
         <entry key="ENGLISH" value="236" />
         <entry key="SWEDISH" value="1" />
       </map>
