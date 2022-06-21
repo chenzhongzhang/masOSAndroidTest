@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="388" />
+    <option name="newTranslationDialogHeight" value="404" />
     <option name="newTranslationDialogWidth" value="643" />
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="EdgeInsets" />
+      <item value="infinity" />
+      <item value="e.infinity" />
+      <item value="double.infinity" />
       <item value="图文" />
       <item value="tuw" />
       <item value="Compilation is not supported for following modules: Weibo_Project.newsfeed, Weibo_Project.extlib_flow, Weibo_Project.extlib_feedcore. Unfortunately you can't have non-Gradle Java modules and Android-Gradle modules in one project." />
@@ -52,15 +56,11 @@
       <item value="handle Title Bar Event" />
       <item value="Decoration" />
       <item value="Biz Sticky Item Decoration" />
-      <item value="encode" />
-      <item value="Screen Orientation Base Activity" />
-      <item value="Set the view tree owners before setting the content view so that the inflation process and attach listeners will see them already present" />
-      <item value="Dialog Bottom Sheet Layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="244" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
