@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="第六" />
+      <item value="第liu" />
+      <item value="第" />
       <item value="第五" />
       <item value="圆角" />
       <item value="Positional arguments must occur before named arguments.&#10;Try moving all of the positional arguments before the named arguments.dart(posit" />
@@ -53,9 +56,6 @@
       <item value="调试选项" />
       <item value=" /**&#10;     * 评论流广告点赞发送点击监测，取消赞不发送，正向开关&#10;     */&#10;    public static boolean isCommentsAdClickLikeTrackEnable() {&#10;        return FeedSdkUtils.AbManager.isFeatureEnabled(&quot;wb_ad_isCommentsAdClickLikeTrack_android_enable&quot;);&#10;    }" />
       <item value="调试选项文字颜色" />
-      <item value="调试选项文字yan" />
-      <item value="Strategy" />
-      <item value="Rects" />
     </histories>
     <option name="languageScores">
       <map>
