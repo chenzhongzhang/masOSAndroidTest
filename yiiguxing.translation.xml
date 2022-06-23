@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="圆角" />
       <item value="Positional arguments must occur before named arguments.&#10;Try moving all of the positional arguments before the named arguments.dart(posit" />
       <item value="EdgeInsets" />
       <item value="infinity" />
@@ -55,12 +56,11 @@
       <item value="Strategy" />
       <item value="Rects" />
       <item value="handle Title Bar Event" />
-      <item value="Decoration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="249" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="252" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
