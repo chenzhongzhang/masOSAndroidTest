@@ -6,10 +6,11 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="第八" />
+      <item value="di" />
       <item value="关注" />
       <item value="第七" />
       <item value="di'qi" />
-      <item value="di" />
       <item value="皇冠" />
       <item value="huang'guang" />
       <item value="huang" />
@@ -55,17 +56,16 @@
       <item value="monitor Secs For Status" />
       <item value="Indicates that the task has not been executed yet." />
       <item value="ad Click Track" />
-      <item value="广告调试选项颜色bug修复" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="304" />
+        <entry key="ENGLISH" value="299" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655724620489" />
+    <option name="lastTrimTime" value="1656324143741" />
   </component>
 </application>
