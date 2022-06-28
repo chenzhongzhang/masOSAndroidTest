@@ -4,8 +4,15 @@
     <option name="newTranslationDialogHeight" value="404" />
     <option name="newTranslationDialogWidth" value="643" />
     <option name="newTranslationDialogX" value="566" />
-    <option name="newTranslationDialogY" value="121" />
+    <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="7天会员奖品" />
+      <item value="7天会员jiang" />
+      <item value="7天" />
+      <item value="奖" />
+      <item value="奖品会员" />
+      <item value="奖品of会员" />
+      <item value="会员" />
       <item value="弹窗外框" />
       <item value="弹窗" />
       <item value="dialog" />
@@ -49,18 +56,11 @@
       <item value="单元" />
       <item value="行" />
       <item value="hang" />
-      <item value="do Un Follow Action" />
-      <item value="render thread" />
-      <item value="render t'h're" />
-      <item value="render T" />
-      <item value="render " />
-      <item value="render" />
-      <item value="e" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="CHINESE" value="346" />
+        <entry key="ENGLISH" value="342" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
