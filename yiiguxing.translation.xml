@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="121" />
     <histories>
+      <item value="弹窗外框" />
+      <item value="弹窗" />
+      <item value="dialog" />
       <item value="before Net Reload End" />
       <item value="外框" />
       <item value="wai'kuang" />
@@ -53,14 +56,11 @@
       <item value="render " />
       <item value="render" />
       <item value="e" />
-      <item value="The git repository at '/Users/qinzhan' has too many active changes, only a subset of Git features will be enabled." />
-      <item value="下载进度an" />
-      <item value="下载进度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="308" />
+        <entry key="CHINESE" value="338" />
+        <entry key="ENGLISH" value="334" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
