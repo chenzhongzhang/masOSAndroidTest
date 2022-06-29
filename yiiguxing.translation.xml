@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="是否分享" />
+      <item value="组件" />
       <item value="关闭按钮" />
       <item value="7天会员奖品" />
       <item value="7天会员jiang" />
@@ -54,13 +56,11 @@
       <item value="格子" />
       <item value="ge'zi" />
       <item value="单" />
-      <item value="单元" />
-      <item value="行" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="366" />
+        <entry key="ENGLISH" value="362" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
