@@ -6,6 +6,13 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="区分IOS和Android" />
+      <item value="区分IOS和" />
+      <item value="区分IOShe" />
+      <item value="区分IO" />
+      <item value="区分" />
+      <item value="区分xi't" />
+      <item value="区分端" />
       <item value="是否分享" />
       <item value="组件" />
       <item value="关闭按钮" />
@@ -49,18 +56,11 @@
       <item value="Xcode installation is incomplete; a full installation is necessary for iOS&#10;      development.&#10;      Download at: https://developer.apple.com/xcode/download/&#10;      Or install Xcode via the App Store.&#10;      Once installed, run:&#10;        sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer&#10;        sudo xcodebuild -runFirstLaunch&#10;" />
       <item value="Unauthorized" />
       <item value="invalid" />
-      <item value="下载进度按钮" />
-      <item value="Interaction" />
-      <item value="Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/." />
-      <item value="单元格" />
-      <item value="格子" />
-      <item value="ge'zi" />
-      <item value="单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="362" />
+        <entry key="CHINESE" value="371" />
+        <entry key="ENGLISH" value="367" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
