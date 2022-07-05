@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="关注用户" />
+      <item value="关注y" />
+      <item value="关注ying" />
+      <item value="关注" />
       <item value="flutter rangeerror (length) invalid value valid value range is empty 0" />
       <item value="处理" />
       <item value="裁剪" />
@@ -50,17 +54,13 @@
       <item value="wai'kuang" />
       <item value="第八" />
       <item value="di" />
-      <item value="关注" />
       <item value="第七" />
       <item value="di'qi" />
-      <item value="皇冠" />
-      <item value="huang'guang" />
-      <item value="huang" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE" value="456" />
+        <entry key="ENGLISH" value="452" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
