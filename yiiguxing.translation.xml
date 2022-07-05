@@ -6,6 +6,16 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="处理" />
+      <item value="裁剪" />
+      <item value="cai'jiang" />
+      <item value="昵称长度处理" />
+      <item value="昵称长度" />
+      <item value="昵称" />
+      <item value="ni'cheng" />
+      <item value="ni'chen" />
+      <item value="ni" />
+      <item value="nin'cheng" />
       <item value="抽奖结果" />
       <item value="奖品" />
       <item value="标题位置" />
@@ -46,21 +56,11 @@
       <item value="huang'guang" />
       <item value="huang" />
       <item value="第六" />
-      <item value="第liu" />
-      <item value="第" />
-      <item value="第五" />
-      <item value="圆角" />
-      <item value="Positional arguments must occur before named arguments.&#10;Try moving all of the positional arguments before the named arguments.dart(posit" />
-      <item value="EdgeInsets" />
-      <item value="infinity" />
-      <item value="e.infinity" />
-      <item value="double.infinity" />
-      <item value="图文" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="413" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="447" />
+        <entry key="ENGLISH" value="443" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
