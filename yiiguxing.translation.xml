@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="flutter rangeerror (length) invalid value valid value range is empty 0" />
       <item value="处理" />
       <item value="裁剪" />
       <item value="cai'jiang" />
@@ -55,11 +56,10 @@
       <item value="皇冠" />
       <item value="huang'guang" />
       <item value="huang" />
-      <item value="第六" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
+        <entry key="CHINESE" value="448" />
         <entry key="ENGLISH" value="443" />
         <entry key="SWEDISH" value="1" />
       </map>
