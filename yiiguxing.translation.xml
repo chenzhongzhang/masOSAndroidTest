@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="Creates a new {@code JSONObject} with namevalue mappings from the JSON string. @param json a JSON-encoded string containing an object. @throws JSONException if the parse fails or doesn't yield a {@code JSONObject}." />
       <item value="发送点击监测" />
       <item value="发送" />
       <item value="m Card Info.get Actionlog()" />
@@ -55,12 +56,11 @@
       <item value="dialog" />
       <item value="before Net Reload End" />
       <item value="外框" />
-      <item value="wai'kuang" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="463" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="ENGLISH" value="460" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
