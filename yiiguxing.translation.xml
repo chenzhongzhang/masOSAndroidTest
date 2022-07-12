@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="发送点击监测" />
+      <item value="发送" />
       <item value="m Card Info.get Actionlog()" />
       <item value="Charles cannot configure your proxy settings while it is on a read-only volume. Perhaps you are running Charles from the disk image? If so, please copy Charles to the Applications folder and run it again. Otherwise please ensure that Charles is running on a volume that is read-write and try again." />
       <item value="关注用户" />
@@ -54,13 +56,11 @@
       <item value="before Net Reload End" />
       <item value="外框" />
       <item value="wai'kuang" />
-      <item value="第八" />
-      <item value="di" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="457" />
-        <entry key="ENGLISH" value="453" />
+        <entry key="CHINESE" value="463" />
+        <entry key="ENGLISH" value="459" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
