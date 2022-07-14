@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="来源" />
+      <item value="la" />
+      <item value="lai" />
       <item value="Wraps the given object if necessary. &lt;p&gt;If the object is null or , returns {@link NULL}. If the object is a {@code JSONArray} or {@code JSONObject}, no wrapping is necessary. If the object is {@code NULL}, no wrapping is necessary. If the object is an array or {@code Collection}, returns an equivalent {@code JSONArray}. If the object is a {@code Map}, returns an equivalent {@code JSONObject}. If the object is a primitive wrapper type or {@code String}, returns the object. Otherwise if the object is from a {@code java} package, returns the result of {@code toString}. If wrapping fails, returns null." />
       <item value="Encodes {@code data} as a JSON string. This applies quotes and any necessary character escaping. @param data the string to encode. Null will be interpreted as an empty string." />
       <item value="Creates a new {@code JSONObject} with namevalue mappings from the JSON string. @param json a JSON-encoded string containing an object. @throws JSONException if the parse fails or doesn't yield a {@code JSONObject}." />
@@ -53,14 +56,11 @@
       <item value="奖品会员" />
       <item value="奖品of会员" />
       <item value="会员" />
-      <item value="弹窗外框" />
-      <item value="弹窗" />
-      <item value="dialog" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="463" />
-        <entry key="ENGLISH" value="462" />
+        <entry key="CHINESE" value="479" />
+        <entry key="ENGLISH" value="478" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
