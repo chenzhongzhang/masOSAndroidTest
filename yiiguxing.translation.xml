@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="eturns the value associated with the given key, or false if no mapping of the desired type exists for the given key. @param key a String @return a boolean value" />
       <item value="来源" />
       <item value="la" />
       <item value="lai" />
@@ -55,12 +56,11 @@
       <item value="奖" />
       <item value="奖品会员" />
       <item value="奖品of会员" />
-      <item value="会员" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="ENGLISH" value="479" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
