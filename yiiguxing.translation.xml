@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="屏幕" />
+      <item value="平米" />
       <item value="eturns the value associated with the given key, or false if no mapping of the desired type exists for the given key. @param key a String @return a boolean value" />
       <item value="来源" />
       <item value="la" />
@@ -54,18 +56,16 @@
       <item value="7天会员jiang" />
       <item value="7天" />
       <item value="奖" />
-      <item value="奖品会员" />
-      <item value="奖品of会员" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="CHINESE" value="492" />
+        <entry key="ENGLISH" value="492" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657505737433" />
+    <option name="lastTrimTime" value="1658111197648" />
   </component>
 </application>
