@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="Scale" />
+      <item value="remove View Hard Ware Accelerated" />
+      <item value="set Corner Radius" />
       <item value="ad Portrait" />
       <item value="屏幕" />
       <item value="平米" />
@@ -53,14 +56,11 @@
       <item value="是否分享" />
       <item value="组件" />
       <item value="关闭按钮" />
-      <item value="7天会员奖品" />
-      <item value="7天会员jiang" />
-      <item value="7天" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="492" />
-        <entry key="ENGLISH" value="492" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="495" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
