@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="Rounded" />
+      <item value="Avatar" />
+      <item value="Causes the Runnable to be added to the message queue. The runnable will be run on the user interface thread.&#10;Params:&#10;action – The Runnable that will be executed.&#10;Returns:&#10;Returns true if the Runnable was successfully placed in to the message queue. Returns false on failure, usually because the looper processing the message queue is exiting.&#10;See Also:&#10;postDelayed, removeCallbacks" />
+      <item value="set Scale" />
       <item value="owner Activity" />
       <item value="is Valid" />
       <item value="Super Page Activity" />
@@ -52,15 +56,11 @@
       <item value="区分IOS和Android" />
       <item value="区分IOS和" />
       <item value="区分IOShe" />
-      <item value="区分IO" />
-      <item value="区分" />
-      <item value="区分xi't" />
-      <item value="区分端" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="497" />
-        <entry key="ENGLISH" value="498" />
+        <entry key="CHINESE" value="500" />
+        <entry key="ENGLISH" value="501" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
