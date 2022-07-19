@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="owner Activity" />
+      <item value="is Valid" />
       <item value="Super Page Activity" />
       <item value="Scale" />
       <item value="remove View Hard Ware Accelerated" />
@@ -54,13 +56,11 @@
       <item value="区分" />
       <item value="区分xi't" />
       <item value="区分端" />
-      <item value="是否分享" />
-      <item value="组件" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="CHINESE" value="497" />
+        <entry key="ENGLISH" value="498" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
