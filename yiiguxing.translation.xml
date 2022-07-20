@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="屏幕" />
       <item value="Rounded" />
       <item value="Avatar" />
       <item value="Causes the Runnable to be added to the message queue. The runnable will be run on the user interface thread.&#10;Params:&#10;action – The Runnable that will be executed.&#10;Returns:&#10;Returns true if the Runnable was successfully placed in to the message queue. Returns false on failure, usually because the looper processing the message queue is exiting.&#10;See Also:&#10;postDelayed, removeCallbacks" />
@@ -17,7 +18,6 @@
       <item value="remove View Hard Ware Accelerated" />
       <item value="set Corner Radius" />
       <item value="ad Portrait" />
-      <item value="屏幕" />
       <item value="平米" />
       <item value="eturns the value associated with the given key, or false if no mapping of the desired type exists for the given key. @param key a String @return a boolean value" />
       <item value="来源" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="506" />
+        <entry key="ENGLISH" value="507" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
