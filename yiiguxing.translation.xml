@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="全量开关" />
+      <item value="全量" />
+      <item value="全量k's" />
       <item value="屏幕" />
       <item value="Rounded" />
       <item value="Avatar" />
@@ -53,14 +56,11 @@
       <item value="标题" />
       <item value="详情" />
       <item value="xin" />
-      <item value="区分IOS和Android" />
-      <item value="区分IOS和" />
-      <item value="区分IOShe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="506" />
-        <entry key="ENGLISH" value="507" />
+        <entry key="CHINESE" value="515" />
+        <entry key="ENGLISH" value="516" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
