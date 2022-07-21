@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="duration Runnable" />
       <item value="Fill the DecorView in on any configuration changes that may have occured while it was removed from the WindowManager." />
       <item value="start Count Down" />
       <item value="全量开关" />
@@ -55,12 +56,11 @@
       <item value="标题位置" />
       <item value="位置" />
       <item value="wei'zhi" />
-      <item value="标题" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="518" />
+        <entry key="ENGLISH" value="519" />
         <entry key="FRENCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
