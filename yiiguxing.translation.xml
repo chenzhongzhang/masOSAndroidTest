@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="ad Portrait" />
       <item value="duration Runnable" />
       <item value="Fill the DecorView in on any configuration changes that may have occured while it was removed from the WindowManager." />
       <item value="start Count Down" />
@@ -23,7 +24,6 @@
       <item value="Scale" />
       <item value="remove View Hard Ware Accelerated" />
       <item value="set Corner Radius" />
-      <item value="ad Portrait" />
       <item value="平米" />
       <item value="eturns the value associated with the given key, or false if no mapping of the desired type exists for the given key. @param key a String @return a boolean value" />
       <item value="来源" />
@@ -59,9 +59,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
+        <entry key="CHINESE" value="519" />
         <entry key="ENGLISH" value="519" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
