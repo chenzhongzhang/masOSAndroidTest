@@ -6,7 +6,12 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="set Image Bitmap" />
+      <item value="set Corner Radius" />
       <item value="ad Portrait" />
+      <item value="Native Gif View" />
+      <item value="set Scale Enabled" />
+      <item value="Scale" />
       <item value="duration Runnable" />
       <item value="Fill the DecorView in on any configuration changes that may have occured while it was removed from the WindowManager." />
       <item value="start Count Down" />
@@ -21,9 +26,7 @@
       <item value="owner Activity" />
       <item value="is Valid" />
       <item value="Super Page Activity" />
-      <item value="Scale" />
       <item value="remove View Hard Ware Accelerated" />
-      <item value="set Corner Radius" />
       <item value="平米" />
       <item value="eturns the value associated with the given key, or false if no mapping of the desired type exists for the given key. @param key a String @return a boolean value" />
       <item value="来源" />
@@ -53,15 +56,12 @@
       <item value="nin'cheng" />
       <item value="抽奖结果" />
       <item value="奖品" />
-      <item value="标题位置" />
-      <item value="位置" />
-      <item value="wei'zhi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="519" />
-        <entry key="FRENCH" value="2" />
+        <entry key="CHINESE" value="523" />
+        <entry key="ENGLISH" value="524" />
+        <entry key="FRENCH" value="3" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
