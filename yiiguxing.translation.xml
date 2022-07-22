@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="on Back Pressed" />
       <item value="set Image Bitmap" />
       <item value="set Corner Radius" />
       <item value="ad Portrait" />
@@ -55,12 +56,11 @@
       <item value="ni" />
       <item value="nin'cheng" />
       <item value="抽奖结果" />
-      <item value="奖品" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="523" />
-        <entry key="ENGLISH" value="524" />
+        <entry key="CHINESE" value="525" />
+        <entry key="ENGLISH" value="526" />
         <entry key="FRENCH" value="3" />
         <entry key="SWEDISH" value="1" />
       </map>
