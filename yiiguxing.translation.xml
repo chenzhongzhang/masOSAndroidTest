@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="119" />
     <histories>
+      <item value="大视窗" />
+      <item value="track" />
+      <item value="监测" />
+      <item value="虚拟大视窗" />
       <item value="Video Texture View" />
       <item value="Cover Controller" />
       <item value="Blank Controller" />
@@ -52,21 +56,17 @@
       <item value="裁剪" />
       <item value="cai'jiang" />
       <item value="昵称长度处理" />
-      <item value="昵称长度" />
-      <item value="昵称" />
-      <item value="ni'cheng" />
-      <item value="ni'chen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="528" />
-        <entry key="ENGLISH" value="529" />
+        <entry key="CHINESE" value="556" />
+        <entry key="ENGLISH" value="556" />
         <entry key="FRENCH" value="3" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658111197648" />
+    <option name="lastTrimTime" value="1658920733405" />
   </component>
 </application>
